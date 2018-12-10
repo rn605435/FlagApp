@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="FlagApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FlagApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#242e38">
+        <Grid VerticalAlignment="Top">
+            <Image
+                Width="200" Height="200"
+                Stretch="Uniform"
+                Source="ms-appx:///Assets/Flags/France.png"/>
+
+        </Grid>
+
+        <Grid VerticalAlignment="Center"
+              Background="White"
+              CornerRadius="8"
+              Margin="8"
+              Padding="16 50">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Button x:ConnectionId='2' x:Name="btnPlay"
+                    Grid.Row="0"
+                    Content="Jouer"
+                    Margin="8"
+                    Background="#1cb3bc"
+                    Foreground="White"
+                    HorizontalAlignment="Stretch"                      
+                    />
+            <Grid Grid.Row="1" Margin="8 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <RadioButton x:ConnectionId='5'
+                    GroupName="Mode"
+                    Grid.Column="0"
+                    x:Name="rdiEasy"
+                    Content="Facile"
+                    IsChecked="True"/>
+                <RadioButton x:ConnectionId='6'
+                    GroupName="Mode"
+                    Grid.Column="1"
+                    x:Name="rdiMedium"
+                    Content="Moyen"/>
+
+            </Grid>
+            <Grid Grid.Row="2" Margin="8 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <RadioButton x:ConnectionId='3'
+                    GroupName="Mode"
+                    Grid.Column="0"
+                    x:Name="rdiHard"
+                    Content="Difficile"/>
+                <RadioButton x:ConnectionId='4'
+                    GroupName="Mode"
+                    Grid.Column="1"
+                    x:Name="rdiExtreme"
+                    Content="Extreme"/>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+

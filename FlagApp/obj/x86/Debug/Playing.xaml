@@ -1,0 +1,108 @@
+﻿<Page
+    x:Class="FlagApp.Playing"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FlagApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+
+    <Grid Background="#242e38">
+        <Grid VerticalAlignment="Top">
+            <Image x:ConnectionId='9' x:Name="imgLoad"
+                   Width="200"
+                   Height="100"
+                   Margin="0 16 0 0"/>
+        </Grid>
+        <Grid VerticalAlignment="Bottom"
+              Background="White"
+              CornerRadius="8"
+              Margin="8 50 8 8"
+              Padding="16 30">
+            <StackPanel Orientation="Vertical">
+                <!-- Dashboard-->
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid BorderThickness="1"
+                          BorderBrush="#aeaeae">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock x:ConnectionId='8' x:Name="txtScore"
+                                   Foreground="DarkGreen"
+                                   HorizontalAlignment="Center"
+                                   FontSize="40"
+                                   Text="0"
+                                   Grid.Column="1"/>
+                        <Grid Grid.Row="1" Background="#ff5722">
+                            <TextBlock Text="Score"
+                                       Foreground="White"
+                                       HorizontalAlignment="Center"/>
+
+                        </Grid>
+                    </Grid>
+
+                    <Grid BorderThickness="1"
+                          BorderBrush="#aeaeae"
+                          Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <TextBlock x:ConnectionId='7' x:Name="txtNum"
+                                   Foreground="DarkGreen"
+                                   HorizontalAlignment="Center"
+                                   FontSize="40"
+                                   Text="1/30"
+                                   Grid.Column="1"/>
+                        <Grid Grid.Row="1" Background="#ff5722">
+                            <TextBlock Text="Question"
+                                       Foreground="White"
+                                       HorizontalAlignment="Center"/>
+
+                        </Grid>
+                    </Grid>
+                </Grid>
+                <ProgressBar x:ConnectionId='2' x:Name="progressBar"
+                             Margin="8"
+                             Background="#eaeaea"
+                             Foreground="DarkGoldenrod"
+                             VerticalAlignment="Top"
+                             HorizontalAlignment="Stretch"
+                             />
+
+                <Button x:ConnectionId='3' x:Name="btnAnswerA"
+                        Content="Réponse "
+                        Margin="8"
+                        Background="#1cb3bc"
+                        Foreground="White"
+                        HorizontalAlignment="Stretch"                         />
+                <Button x:ConnectionId='4' x:Name="btnAnswerB"
+                        Content="Réponse "
+                        Margin="8"
+                        Background="#1cb3bc"
+                        Foreground="White"
+                        HorizontalAlignment="Stretch"                         />
+                <Button x:ConnectionId='5' x:Name="btnAnswerC"
+                        Content="Réponse "
+                        Margin="8"
+                        Background="#1cb3bc"
+                        Foreground="White"
+                        HorizontalAlignment="Stretch"                         />
+                <Button x:ConnectionId='6' x:Name="btnAnswerD"
+                        Content="Réponse "
+                        Margin="8"
+                        Background="#1cb3bc"
+                        Foreground="White"
+                        HorizontalAlignment="Stretch"                         />
+            </StackPanel>
+        </Grid>
+            
+    </Grid>
+</Page>
+

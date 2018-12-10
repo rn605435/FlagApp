@@ -93,7 +93,7 @@ namespace FlagApp
         private void AnswerAccept(Button btn)
         {
             //If answer is right
-            if (btn.Content.Equals(lstQuestion[index].CorrectAnswer))
+            if (btn.Content.Equals(lstQuestion[index].CorrectAnswer.ToUpper()))
             {
                 score += 10; //increase score
                 correctAnswer++; //increase correctAnswer
@@ -101,10 +101,12 @@ namespace FlagApp
 
             }
 
-            index++;
+            
             thisQuestion++;
-            ShowQuestion(index); //next question
+            index++;
             resetTimer();
+            ShowQuestion(index); //next question
+            
         }
 
         //Function show question
@@ -148,8 +150,9 @@ namespace FlagApp
             if(progressBar.Value > TIME_LIMIT) //Time over
             {
                 index++;
-                ShowQuestion(index);
                 resetTimer();
+                ShowQuestion(index);
+                
             }
         }
 

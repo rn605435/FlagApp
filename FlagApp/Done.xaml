@@ -30,7 +30,7 @@
                          Value="0"
                          Maximum="10"
                          Margin="8"
-                         Background="#1cb3bc"
+                         Background="#eaeaea"
                          Foreground="DarkGoldenrod"
                          VerticalAlignment="Top"
                          HorizontalAlignment="Stretch"/>
