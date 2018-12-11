@@ -382,8 +382,14 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
-      <PackagePath>Databases\FlagApp.db</PackagePath>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\bronze.png">
+      <PackagePath>Assets\bronze.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\silver.png">
+      <PackagePath>Assets\silver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\gold.png">
+      <PackagePath>Assets\gold.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
       <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
@@ -1081,6 +1087,9 @@
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
+      <PackagePath>Databases\FlagApp.db</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
@@ -1098,6 +1107,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
       <PackagePath>Playing.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
+      <PackagePath>RankingPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

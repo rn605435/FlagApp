@@ -103,15 +103,22 @@
     </Compile>
     <Compile Include="Model\DBHelper.cs" />
     <Compile Include="Model\Question.cs" />
+    <Compile Include="Model\Ranking.cs" />
     <Compile Include="Playing.xaml.cs">
       <DependentUpon>Playing.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RankingPage.xaml.cs">
+      <DependentUpon>RankingPage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="Assets\bronze.png" />
+    <Content Include="Assets\silver.png" />
+    <Content Include="Assets\gold.png" />
     <Content Include="Databases\FlagApp.db" />
     <None Include="FlagApp_TemporaryKey.pfx" />
   </ItemGroup>
@@ -362,6 +369,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Playing.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RankingPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

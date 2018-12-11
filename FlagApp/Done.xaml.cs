@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FlagApp.Model;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -22,18 +23,24 @@ namespace FlagApp
     /// </summary>
     public sealed partial class Done : Page
     {
+        DBHelper db;
         public Done()
         {
             this.InitializeComponent();
+            db = new DBHelper();
         }
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             base.OnNavigatedTo(e);
             var data = e.Parameter as SendData;
-            txtScore.Text = $"{data.correctAnswer}/{data.totalQuestion}";
+            txtReussi.Text = $"Réussi : {data.correctAnswer}/{data.totalQuestion}";
+            txtScore.Text = $"Score : {data.score}";
             progressBar.Minimum = 0;
             progressBar.Maximum = data.totalQuestion;
             progressBar.Value = data.correctAnswer;
+
+            //Save score to local DB for ranking
+            db.insertScore(data.score);
         }
 
         private void btnTryAgain_Click(object sender, RoutedEventArgs e)

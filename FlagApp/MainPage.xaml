@@ -16,12 +16,13 @@
 
         </Grid>
 
-        <Grid VerticalAlignment="Center"
+        <Grid x:Name="homeMenu" VerticalAlignment="Center"
               Background="White"
               CornerRadius="8"
               Margin="8"
               Padding="16 50">
             <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
@@ -35,7 +36,15 @@
                     Foreground="White"
                     HorizontalAlignment="Stretch" Click="btnPlay_Click"
                     />
-            <Grid Grid.Row="1" Margin="8 0 0 0">
+            <Button x:Name="btnScore"
+                    Grid.Row="1"
+                    Content="Classement"
+                    Margin="8"
+                    Background="#ff8a80"
+                    Foreground="White"
+                    HorizontalAlignment="Stretch" Click="btnScore_Click"
+                    />
+            <Grid Grid.Row="2" Margin="8 0 0 0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
@@ -53,7 +62,7 @@
                     Content="Moyen"/>
 
             </Grid>
-            <Grid Grid.Row="2" Margin="8 0 0 0">
+            <Grid Grid.Row="3" Margin="8 0 0 0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>

@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-10T12:00:39.941</Modified>
+      <Modified>2018-12-11T09:47:51.956</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
       <PackagePath>entrypoint\FlagApp.exe</PackagePath>
-      <Modified>2018-12-10T12:00:38.467</Modified>
+      <Modified>2018-12-11T09:47:51.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -511,9 +511,17 @@
       <PackagePath>ucrtbased.dll</PackagePath>
       <Modified>2018-04-19T22:05:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
-      <PackagePath>Databases\FlagApp.db</PackagePath>
-      <Modified>2018-12-04T09:43:45.707</Modified>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\bronze.png">
+      <PackagePath>Assets\bronze.png</PackagePath>
+      <Modified>2018-12-11T07:59:49.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\silver.png">
+      <PackagePath>Assets\silver.png</PackagePath>
+      <Modified>2018-12-11T07:59:54.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\gold.png">
+      <PackagePath>Assets\gold.png</PackagePath>
+      <Modified>2018-12-11T07:59:59.111</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
       <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
@@ -1441,29 +1449,37 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-09-13T12:46:29.165</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
+      <PackagePath>Databases\FlagApp.db</PackagePath>
+      <Modified>2018-12-11T08:19:09.589</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-12-04T09:12:22.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
       <PackagePath>FlagApp.xr.xml</PackagePath>
-      <Modified>2018-12-10T11:56:49.159</Modified>
+      <Modified>2018-12-11T08:37:18.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-12-10T12:00:38.279</Modified>
+      <Modified>2018-12-11T09:47:50.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
       <PackagePath>Done.xbf</PackagePath>
-      <Modified>2018-12-10T12:00:38.280</Modified>
+      <Modified>2018-12-11T09:47:50.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-12-10T12:00:38.280</Modified>
+      <Modified>2018-12-11T09:47:50.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
       <PackagePath>Playing.xbf</PackagePath>
-      <Modified>2018-12-10T12:00:38.281</Modified>
+      <Modified>2018-12-11T09:47:50.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
+      <PackagePath>RankingPage.xbf</PackagePath>
+      <Modified>2018-12-11T09:47:50.816</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1472,11 +1488,11 @@
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-10T12:00:39.343</Modified>
+      <Modified>2018-12-11T08:08:33.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
       <PackagePath>FlagApp.exe</PackagePath>
-      <Modified>2018-12-10T12:00:39.934</Modified>
+      <Modified>2018-12-11T09:47:51.949</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using System.Threading.Tasks;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.UI.Xaml;
@@ -23,6 +24,7 @@ namespace FlagApp
     {
         public int correctAnswer { get; set; }
         public int totalQuestion { get; set; }
+        public int score { get; set; } //send to done.xaml
     }
     public sealed partial class Playing : Page
     {
@@ -31,7 +33,7 @@ namespace FlagApp
         DispatcherTimer timer; //timer for progress bar value increase
         List<Question> lstQuestion = new List<Question>();
         DBHelper db;
-        int index = 0, score = 0, correctAnswer = 0, totalQuestion = 0, thisQuestion = 1;
+        int index = 0, score = 0, correctAnswer = 0, totalQuestion = 0, thisQuestion = 1, progress=0;
 
 
 
@@ -138,7 +140,7 @@ namespace FlagApp
             else // if index > totalQuestion
             {
                 //Navigate Done page and send result
-                Frame.Navigate(typeof(Done), new SendData() { correctAnswer = this.correctAnswer, totalQuestion = this.totalQuestion });
+                Frame.Navigate(typeof(Done), new SendData() { correctAnswer = this.correctAnswer, totalQuestion = this.totalQuestion, score = this.score });
             }
 
         }
@@ -146,10 +148,16 @@ namespace FlagApp
         private void Timer_Tick(object sender, object e)
         {
             //Increase progress bar value
-            progressBar.Value += 1;
-            if(progressBar.Value > TIME_LIMIT) //Time over
+            progress++;
+            progressBar.Value = progress;
+            if(progress > progressBar.Maximum) //Time over
             {
-                index++;
+                
+                progress++;
+                progressBar.Value = progress;
+                Task.Delay(1000); //1s
+                thisQuestion++; //next q
+                index++; //next q
                 resetTimer();
                 ShowQuestion(index);
                 
@@ -161,6 +169,7 @@ namespace FlagApp
             timer.Stop();
             timer = null;
             progressBar.Value = 0;
+            progress = 0;
         }
     }
 }

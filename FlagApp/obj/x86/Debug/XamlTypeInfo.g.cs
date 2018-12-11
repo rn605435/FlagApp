@@ -189,19 +189,21 @@ namespace FlagApp.FlagApp_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[5];
+            _typeNameTable = new string[6];
             _typeNameTable[0] = "FlagApp.Done";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[3] = "FlagApp.MainPage";
             _typeNameTable[4] = "FlagApp.Playing";
+            _typeNameTable[5] = "FlagApp.RankingPage";
 
-            _typeTable = new global::System.Type[5];
+            _typeTable = new global::System.Type[6];
             _typeTable[0] = typeof(global::FlagApp.Done);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[3] = typeof(global::FlagApp.MainPage);
             _typeTable[4] = typeof(global::FlagApp.Playing);
+            _typeTable[5] = typeof(global::FlagApp.RankingPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -239,6 +241,7 @@ namespace FlagApp.FlagApp_XamlTypeInfo
         private object Activate_0_Done() { return new global::FlagApp.Done(); }
         private object Activate_3_MainPage() { return new global::FlagApp.MainPage(); }
         private object Activate_4_Playing() { return new global::FlagApp.Playing(); }
+        private object Activate_5_RankingPage() { return new global::FlagApp.RankingPage(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -275,6 +278,13 @@ namespace FlagApp.FlagApp_XamlTypeInfo
             case 4:   //  FlagApp.Playing
                 userType = new global::FlagApp.FlagApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_4_Playing;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 5:   //  FlagApp.RankingPage
+                userType = new global::FlagApp.FlagApp_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_5_RankingPage;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

@@ -1,4 +1,5 @@
 WinMetadata\Windows.winmd
+Assets\bronze.png
 Assets\Flags\Afghanistan.png
 Assets\Flags\Albania.png
 Assets\Flags\Algeria.png
@@ -222,7 +223,9 @@ Assets\Flags\Wallis_and_Futuna.png
 Assets\Flags\Yemen.png
 Assets\Flags\Zambia.png
 Assets\Flags\Zimbabwe.png
+Assets\gold.png
 Assets\LockScreenLogo.scale-200.png
+Assets\silver.png
 Assets\SplashScreen.scale-200.png
 Assets\Square150x150Logo.scale-200.png
 Assets\Square44x44Logo.scale-200.png
@@ -234,5 +237,6 @@ Done.xbf
 FlagApp.xr.xml
 MainPage.xbf
 Playing.xbf
+RankingPage.xbf
 Databases\FlagApp.db
 Properties\Default.rd.xml

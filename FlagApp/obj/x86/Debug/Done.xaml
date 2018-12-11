@@ -20,12 +20,18 @@
                 <RowDefinition Height="auto"/>
             </Grid.RowDefinitions>
             <TextBlock x:ConnectionId='2' x:Name="txtScore"
-                       Text="0/30"
+                       Text="Score : 0"
                        FontSize="40"
                        HorizontalAlignment="Center"
                        Foreground="DarkGreen"/>
-            <ProgressBar x:ConnectionId='3' x:Name="progressBar"
-                         Grid.Row="1"
+            <TextBlock x:ConnectionId='3' x:Name="txtReussi"
+                       Grid.Row="1"
+                       Text="Réussi : 0/30"
+                       FontSize="40"
+                       HorizontalAlignment="Center"
+                       Foreground="DarkGreen"/>
+            <ProgressBar x:ConnectionId='4' x:Name="progressBar"
+                         Grid.Row="2"
                          Minimum="0"
                          Value="0"
                          Maximum="10"
@@ -34,8 +40,8 @@
                          Foreground="DarkGoldenrod"
                          VerticalAlignment="Top"
                          HorizontalAlignment="Stretch"/>
-            <Button x:ConnectionId='4' x:Name="btnTryAgain"
-                    Grid.Row="2"
+            <Button x:ConnectionId='5' x:Name="btnTryAgain"
+                    Grid.Row="3"
                     Content="Réessayer"
                     Margin="8"
                     Background="#1dccaa"

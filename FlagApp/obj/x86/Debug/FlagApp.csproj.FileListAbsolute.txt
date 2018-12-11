@@ -230,3 +230,8 @@ C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\Mult
 C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\resources.en-us.resfiles
 C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\resources.en-us.resfiles.intermediate
 C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf
+C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\RankingPage.g.i.cs
+C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\RankingPage.g.cs
+C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\RankingPage.xaml
+C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\RankingPage.xbf

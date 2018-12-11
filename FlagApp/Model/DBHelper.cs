@@ -1,6 +1,7 @@
 ﻿using SQLite.Net;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -39,6 +40,25 @@ namespace FlagApp.Model
         {
             var data = conn.Table<Question>().Take(200);
             return data.ToList();
+        }
+
+        public int insertScore(int score)
+        {
+            //try
+            //{
+                return conn.Insert(new Ranking() { Score = score });
+            //}
+            /*catch (SQLiteException ex)
+            {
+                Debug.WriteLine(ex.Message);
+                return -1;
+            }*/
+           
+        }
+
+        public List<Ranking> getRanking()
+        {
+            return conn.Table<Ranking>().ToList();
         }
     }
 }

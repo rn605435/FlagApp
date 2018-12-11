@@ -16,7 +16,7 @@
 
         </Grid>
 
-        <Grid VerticalAlignment="Center"
+        <Grid x:ConnectionId='2' x:Name="homeMenu" VerticalAlignment="Center"
               Background="White"
               CornerRadius="8"
               Margin="8"
@@ -26,8 +26,9 @@
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
             </Grid.RowDefinitions>
-            <Button x:ConnectionId='2' x:Name="btnPlay"
+            <Button x:ConnectionId='3' x:Name="btnPlay"
                     Grid.Row="0"
                     Content="Jouer"
                     Margin="8"
@@ -35,7 +36,33 @@
                     Foreground="White"
                     HorizontalAlignment="Stretch"                      
                     />
-            <Grid Grid.Row="1" Margin="8 0 0 0">
+            <Button x:ConnectionId='4' x:Name="btnScore"
+                    Grid.Row="1"
+                    Content="Classement"
+                    Margin="8"
+                    Background="#ff8a80"
+                    Foreground="White"
+                    HorizontalAlignment="Stretch"                       
+                    />
+            <Grid Grid.Row="2" Margin="8 0 0 0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <RadioButton x:ConnectionId='7'
+                    GroupName="Mode"
+                    Grid.Column="0"
+                    x:Name="rdiEasy"
+                    Content="Facile"
+                    IsChecked="True"/>
+                <RadioButton x:ConnectionId='8'
+                    GroupName="Mode"
+                    Grid.Column="1"
+                    x:Name="rdiMedium"
+                    Content="Moyen"/>
+
+            </Grid>
+            <Grid Grid.Row="3" Margin="8 0 0 0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
@@ -43,27 +70,9 @@
                 <RadioButton x:ConnectionId='5'
                     GroupName="Mode"
                     Grid.Column="0"
-                    x:Name="rdiEasy"
-                    Content="Facile"
-                    IsChecked="True"/>
-                <RadioButton x:ConnectionId='6'
-                    GroupName="Mode"
-                    Grid.Column="1"
-                    x:Name="rdiMedium"
-                    Content="Moyen"/>
-
-            </Grid>
-            <Grid Grid.Row="2" Margin="8 0 0 0">
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="*"/>
-                </Grid.ColumnDefinitions>
-                <RadioButton x:ConnectionId='3'
-                    GroupName="Mode"
-                    Grid.Column="0"
                     x:Name="rdiHard"
                     Content="Difficile"/>
-                <RadioButton x:ConnectionId='4'
+                <RadioButton x:ConnectionId='6'
                     GroupName="Mode"
                     Grid.Column="1"
                     x:Name="rdiExtreme"
