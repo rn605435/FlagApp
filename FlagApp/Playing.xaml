@@ -39,7 +39,7 @@
                                    FontSize="40"
                                    Text="0"
                                    Grid.Column="1"/>
-                        <Grid Grid.Row="1" Background="#ff5722">
+                        <Grid Grid.Row="1" Background="#FFF08300">
                             <TextBlock Text="Score"
                                        Foreground="White"
                                        HorizontalAlignment="Center"/>
@@ -60,7 +60,7 @@
                                    FontSize="40"
                                    Text="1/30"
                                    Grid.Column="1"/>
-                        <Grid Grid.Row="1" Background="#ff5722">
+                        <Grid Grid.Row="1" Background="#FFF08300">
                             <TextBlock Text="Question"
                                        Foreground="White"
                                        HorizontalAlignment="Center"/>
@@ -79,25 +79,25 @@
                 <Button x:Name="btnAnswerA"
                         Content="Réponse "
                         Margin="8"
-                        Background="#1cb3bc"
+                        Background="#FF5C7ACB"
                         Foreground="White"
                         HorizontalAlignment="Stretch" Click="btnAnswerA_Click"/>
                 <Button x:Name="btnAnswerB"
                         Content="Réponse "
                         Margin="8"
-                        Background="#1cb3bc"
+                        Background="#FF5C7ACB"
                         Foreground="White"
                         HorizontalAlignment="Stretch" Click="btnAnswerB_Click"/>
                 <Button x:Name="btnAnswerC"
                         Content="Réponse "
                         Margin="8"
-                        Background="#1cb3bc"
+                        Background="#FF5C7ACB"
                         Foreground="White"
                         HorizontalAlignment="Stretch" Click="btnAnswerC_Click"/>
                 <Button x:Name="btnAnswerD"
                         Content="Réponse "
                         Margin="8"
-                        Background="#1cb3bc"
+                        Background="#FF5C7ACB"
                         Foreground="White"
                         HorizontalAlignment="Stretch" Click="btnAnswerD_Click"/>
             </StackPanel>

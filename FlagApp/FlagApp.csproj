@@ -119,7 +119,7 @@
     <Content Include="Assets\bronze.png" />
     <Content Include="Assets\silver.png" />
     <Content Include="Assets\gold.png" />
-    <Content Include="Databases\FlagApp.db" />
+    <Content Include="Databases\FlagAppcopie.db" />
     <None Include="FlagApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
@@ -396,6 +396,7 @@
       <Name>Windows Mobile Extensions for the UWP</Name>
     </SDKReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>

@@ -6,6 +6,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
+    
 
     <Grid Background="#242e38">
         <Grid VerticalAlignment="Top">
@@ -13,7 +14,22 @@
                 Width="200" Height="200"
                 Stretch="Uniform"
                 Source="ms-appx:///Assets/Flags/France.png"/>
+            <TextBlock  x:Name="titleApp" Text="FLAG QUIZ" Height="58" Width="auto" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" FocusVisualPrimaryBrush="White" FontWeight="Bold" FontFamily="High Tower Text" FontSize="48" Foreground="#FFF08300">
+                <TextBlock.Triggers>
+                    <EventTrigger RoutedEvent="TextBlock.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="titleApp"  
+                                                 Storyboard.TargetProperty="Opacity"  
+                                                 From="0.0" To="1.0" Duration="0:0:2" AutoReverse="False"  
+                                                 
+                                />
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </TextBlock.Triggers>
 
+            </TextBlock>
         </Grid>
 
         <Grid x:Name="homeMenu" VerticalAlignment="Center"
@@ -32,7 +48,7 @@
                     Grid.Row="0"
                     Content="Jouer"
                     Margin="8"
-                    Background="#1cb3bc"
+                    Background="#FF5C7ACB"
                     Foreground="White"
                     HorizontalAlignment="Stretch" Click="btnPlay_Click"
                     />
@@ -40,7 +56,7 @@
                     Grid.Row="1"
                     Content="Classement"
                     Margin="8"
-                    Background="#ff8a80"
+                    Background="#FFF08300"
                     Foreground="White"
                     HorizontalAlignment="Stretch" Click="btnScore_Click"
                     />
@@ -82,3 +98,4 @@
         </Grid>
     </Grid>
 </Page>
+    

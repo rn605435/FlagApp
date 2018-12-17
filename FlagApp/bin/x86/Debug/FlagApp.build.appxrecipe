@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3c5a0bae-0909-4aaf-9a9e-d040b399a727</PackageIdentityName>
     <PackageIdentityPublisher>CN=rn605435</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
       <PackagePath>entrypoint\FlagApp.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -382,816 +382,831 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\bronze.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\bronze.png">
       <PackagePath>Assets\bronze.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\silver.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\silver.png">
       <PackagePath>Assets\silver.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\gold.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\gold.png">
       <PackagePath>Assets\gold.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
       <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Albania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Albania.png">
       <PackagePath>Assets\Flags\Albania.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Algeria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Algeria.png">
       <PackagePath>Assets\Flags\Algeria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
       <PackagePath>Assets\Flags\American_Samoa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Andorra.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Andorra.png">
       <PackagePath>Assets\Flags\Andorra.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Angola.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Angola.png">
       <PackagePath>Assets\Flags\Angola.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
       <PackagePath>Assets\Flags\Anguilla.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
       <PackagePath>Assets\Flags\Antigua_and_Barbuda.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Argentina.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Argentina.png">
       <PackagePath>Assets\Flags\Argentina.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Armenia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Armenia.png">
       <PackagePath>Assets\Flags\Armenia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Aruba.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Aruba.png">
       <PackagePath>Assets\Flags\Aruba.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Australia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Australia.png">
       <PackagePath>Assets\Flags\Australia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Austria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Austria.png">
       <PackagePath>Assets\Flags\Austria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
       <PackagePath>Assets\Flags\Azerbaijan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
       <PackagePath>Assets\Flags\Bahamas.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
       <PackagePath>Assets\Flags\Bahrain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
       <PackagePath>Assets\Flags\Bangladesh.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Barbados.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Barbados.png">
       <PackagePath>Assets\Flags\Barbados.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belarus.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belarus.png">
       <PackagePath>Assets\Flags\Belarus.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belgium.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belgium.png">
       <PackagePath>Assets\Flags\Belgium.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belize.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belize.png">
       <PackagePath>Assets\Flags\Belize.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Benin.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Benin.png">
       <PackagePath>Assets\Flags\Benin.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
       <PackagePath>Assets\Flags\Bermuda.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
       <PackagePath>Assets\Flags\Bhutan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
       <PackagePath>Assets\Flags\Bolivia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
       <PackagePath>Assets\Flags\Bosnia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Botswana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Botswana.png">
       <PackagePath>Assets\Flags\Botswana.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Brazil.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brazil.png">
       <PackagePath>Assets\Flags\Brazil.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
       <PackagePath>Assets\Flags\British_Virgin_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Brunei.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brunei.png">
       <PackagePath>Assets\Flags\Brunei.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
       <PackagePath>Assets\Flags\Bulgaria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
       <PackagePath>Assets\Flags\Burkina_Faso.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Burundi.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burundi.png">
       <PackagePath>Assets\Flags\Burundi.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
       <PackagePath>Assets\Flags\Cambodia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
       <PackagePath>Assets\Flags\Cameroon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Canada.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Canada.png">
       <PackagePath>Assets\Flags\Canada.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
       <PackagePath>Assets\Flags\Cape_Verde.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
       <PackagePath>Assets\Flags\Cayman_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
       <PackagePath>Assets\Flags\Central_African_Republic.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Chad.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chad.png">
       <PackagePath>Assets\Flags\Chad.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Chile.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chile.png">
       <PackagePath>Assets\Flags\Chile.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\China.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\China.png">
       <PackagePath>Assets\Flags\China.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
       <PackagePath>Assets\Flags\Christmas_Island.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Colombia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Colombia.png">
       <PackagePath>Assets\Flags\Colombia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Comoros.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Comoros.png">
       <PackagePath>Assets\Flags\Comoros.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
       <PackagePath>Assets\Flags\Cook_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
       <PackagePath>Assets\Flags\Costa_Rica.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Croatia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Croatia.png">
       <PackagePath>Assets\Flags\Croatia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cuba.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cuba.png">
       <PackagePath>Assets\Flags\Cuba.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
       <PackagePath>Assets\Flags\Cyprus.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
       <PackagePath>Assets\Flags\Czech_Republic.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
       <PackagePath>Assets\Flags\Côte_d%27Ivoire.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
       <PackagePath>Assets\Flags\Democratic_Republic_of_the_Congo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Denmark.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Denmark.png">
       <PackagePath>Assets\Flags\Denmark.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
       <PackagePath>Assets\Flags\Djibouti.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Dominica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominica.png">
       <PackagePath>Assets\Flags\Dominica.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
       <PackagePath>Assets\Flags\Dominican_Republic.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
       <PackagePath>Assets\Flags\Ecuador.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Egypt.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Egypt.png">
       <PackagePath>Assets\Flags\Egypt.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
       <PackagePath>Assets\Flags\El_Salvador.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
       <PackagePath>Assets\Flags\Equatorial_Guinea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
       <PackagePath>Assets\Flags\Eritrea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Estonia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Estonia.png">
       <PackagePath>Assets\Flags\Estonia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
       <PackagePath>Assets\Flags\Ethiopia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
       <PackagePath>Assets\Flags\Falkland_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
       <PackagePath>Assets\Flags\Faroe_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Fiji.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Fiji.png">
       <PackagePath>Assets\Flags\Fiji.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Finland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Finland.png">
       <PackagePath>Assets\Flags\Finland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\France.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\France.png">
       <PackagePath>Assets\Flags\France.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
       <PackagePath>Assets\Flags\French_Polynesia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gabon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gabon.png">
       <PackagePath>Assets\Flags\Gabon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gambia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gambia.png">
       <PackagePath>Assets\Flags\Gambia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Georgia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Georgia.png">
       <PackagePath>Assets\Flags\Georgia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Germany.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Germany.png">
       <PackagePath>Assets\Flags\Germany.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ghana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ghana.png">
       <PackagePath>Assets\Flags\Ghana.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
       <PackagePath>Assets\Flags\Gibraltar.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Greece.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greece.png">
       <PackagePath>Assets\Flags\Greece.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Greenland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greenland.png">
       <PackagePath>Assets\Flags\Greenland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Grenada.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Grenada.png">
       <PackagePath>Assets\Flags\Grenada.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guam.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guam.png">
       <PackagePath>Assets\Flags\Guam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
       <PackagePath>Assets\Flags\Guatemala.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea.png">
       <PackagePath>Assets\Flags\Guinea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
       <PackagePath>Assets\Flags\Guinea_Bissau.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guyana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guyana.png">
       <PackagePath>Assets\Flags\Guyana.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Haiti.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Haiti.png">
       <PackagePath>Assets\Flags\Haiti.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Honduras.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Honduras.png">
       <PackagePath>Assets\Flags\Honduras.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
       <PackagePath>Assets\Flags\Hong_Kong.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Hungary.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hungary.png">
       <PackagePath>Assets\Flags\Hungary.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iceland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iceland.png">
       <PackagePath>Assets\Flags\Iceland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\India.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\India.png">
       <PackagePath>Assets\Flags\India.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
       <PackagePath>Assets\Flags\Indonesia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iran.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iran.png">
       <PackagePath>Assets\Flags\Iran.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iraq.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iraq.png">
       <PackagePath>Assets\Flags\Iraq.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ireland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ireland.png">
       <PackagePath>Assets\Flags\Ireland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Israel.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Israel.png">
       <PackagePath>Assets\Flags\Israel.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Italy.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Italy.png">
       <PackagePath>Assets\Flags\Italy.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
       <PackagePath>Assets\Flags\Jamaica.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Japan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Japan.png">
       <PackagePath>Assets\Flags\Japan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Jordan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jordan.png">
       <PackagePath>Assets\Flags\Jordan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
       <PackagePath>Assets\Flags\Kazakhstan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kenya.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kenya.png">
       <PackagePath>Assets\Flags\Kenya.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
       <PackagePath>Assets\Flags\Kiribati.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
       <PackagePath>Assets\Flags\Kuwait.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
       <PackagePath>Assets\Flags\Kyrgyzstan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Laos.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Laos.png">
       <PackagePath>Assets\Flags\Laos.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Latvia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Latvia.png">
       <PackagePath>Assets\Flags\Latvia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
       <PackagePath>Assets\Flags\Lebanon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
       <PackagePath>Assets\Flags\Lesotho.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Liberia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liberia.png">
       <PackagePath>Assets\Flags\Liberia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Libya.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Libya.png">
       <PackagePath>Assets\Flags\Libya.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
       <PackagePath>Assets\Flags\Liechtenstein.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
       <PackagePath>Assets\Flags\Lithuania.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
       <PackagePath>Assets\Flags\Luxembourg.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Macao.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macao.png">
       <PackagePath>Assets\Flags\Macao.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
       <PackagePath>Assets\Flags\Macedonia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
       <PackagePath>Assets\Flags\Madagascar.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malawi.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malawi.png">
       <PackagePath>Assets\Flags\Malawi.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
       <PackagePath>Assets\Flags\Malaysia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Maldives.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Maldives.png">
       <PackagePath>Assets\Flags\Maldives.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mali.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mali.png">
       <PackagePath>Assets\Flags\Mali.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malta.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malta.png">
       <PackagePath>Assets\Flags\Malta.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
       <PackagePath>Assets\Flags\Marshall_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Martinique.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Martinique.png">
       <PackagePath>Assets\Flags\Martinique.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
       <PackagePath>Assets\Flags\Mauritania.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
       <PackagePath>Assets\Flags\Mauritius.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mexico.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mexico.png">
       <PackagePath>Assets\Flags\Mexico.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
       <PackagePath>Assets\Flags\Micronesia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Moldova.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Moldova.png">
       <PackagePath>Assets\Flags\Moldova.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Monaco.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Monaco.png">
       <PackagePath>Assets\Flags\Monaco.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
       <PackagePath>Assets\Flags\Mongolia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
       <PackagePath>Assets\Flags\Montserrat.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Morocco.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Morocco.png">
       <PackagePath>Assets\Flags\Morocco.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
       <PackagePath>Assets\Flags\Mozambique.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
       <PackagePath>Assets\Flags\Myanmar.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Namibia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Namibia.png">
       <PackagePath>Assets\Flags\Namibia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nauru.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nauru.png">
       <PackagePath>Assets\Flags\Nauru.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nepal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nepal.png">
       <PackagePath>Assets\Flags\Nepal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
       <PackagePath>Assets\Flags\Netherlands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
       <PackagePath>Assets\Flags\Netherlands_Antilles.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
       <PackagePath>Assets\Flags\New_Zealand.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
       <PackagePath>Assets\Flags\Nicaragua.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Niger.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niger.png">
       <PackagePath>Assets\Flags\Niger.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
       <PackagePath>Assets\Flags\Nigeria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Niue.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niue.png">
       <PackagePath>Assets\Flags\Niue.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
       <PackagePath>Assets\Flags\Norfolk_Island.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
       <PackagePath>Assets\Flags\North_Korea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Norway.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norway.png">
       <PackagePath>Assets\Flags\Norway.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Oman.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Oman.png">
       <PackagePath>Assets\Flags\Oman.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
       <PackagePath>Assets\Flags\Pakistan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Palau.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Palau.png">
       <PackagePath>Assets\Flags\Palau.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Panama.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Panama.png">
       <PackagePath>Assets\Flags\Panama.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
       <PackagePath>Assets\Flags\Papua_New_Guinea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
       <PackagePath>Assets\Flags\Paraguay.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Peru.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Peru.png">
       <PackagePath>Assets\Flags\Peru.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Philippines.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Philippines.png">
       <PackagePath>Assets\Flags\Philippines.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
       <PackagePath>Assets\Flags\Pitcairn_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Poland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Poland.png">
       <PackagePath>Assets\Flags\Poland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Portugal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Portugal.png">
       <PackagePath>Assets\Flags\Portugal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
       <PackagePath>Assets\Flags\Puerto_Rico.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Qatar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Qatar.png">
       <PackagePath>Assets\Flags\Qatar.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
       <PackagePath>Assets\Flags\Republic_of_the_Congo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Romania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Romania.png">
       <PackagePath>Assets\Flags\Romania.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
       <PackagePath>Assets\Flags\Russian_Federation.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
       <PackagePath>Assets\Flags\Rwanda.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
       <PackagePath>Assets\Flags\Saint_Kitts_and_Nevis.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
       <PackagePath>Assets\Flags\Saint_Lucia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
       <PackagePath>Assets\Flags\Saint_Pierre.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
       <PackagePath>Assets\Flags\Saint_Vicent_and_the_Grenadines.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Samoa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Samoa.png">
       <PackagePath>Assets\Flags\Samoa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
       <PackagePath>Assets\Flags\San_Marino.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
       <PackagePath>Assets\Flags\Sao_Tomé_and_Príncipe.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
       <PackagePath>Assets\Flags\Saudi_Arabia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Senegal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Senegal.png">
       <PackagePath>Assets\Flags\Senegal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
       <PackagePath>Assets\Flags\Serbia_and_Montenegro.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
       <PackagePath>Assets\Flags\Seychelles.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
       <PackagePath>Assets\Flags\Sierra_Leone.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Singapore.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Singapore.png">
       <PackagePath>Assets\Flags\Singapore.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
       <PackagePath>Assets\Flags\Slovakia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
       <PackagePath>Assets\Flags\Slovenia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
       <PackagePath>Assets\Flags\Soloman_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Somalia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Somalia.png">
       <PackagePath>Assets\Flags\Somalia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
       <PackagePath>Assets\Flags\South_Africa.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
       <PackagePath>Assets\Flags\South_Georgia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
       <PackagePath>Assets\Flags\South_Korea.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
       <PackagePath>Assets\Flags\Soviet_Union.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Spain.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Spain.png">
       <PackagePath>Assets\Flags\Spain.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
       <PackagePath>Assets\Flags\Sri_Lanka.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sudan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sudan.png">
       <PackagePath>Assets\Flags\Sudan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Suriname.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Suriname.png">
       <PackagePath>Assets\Flags\Suriname.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
       <PackagePath>Assets\Flags\Swaziland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sweden.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sweden.png">
       <PackagePath>Assets\Flags\Sweden.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
       <PackagePath>Assets\Flags\Switzerland.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Syria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Syria.png">
       <PackagePath>Assets\Flags\Syria.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
       <PackagePath>Assets\Flags\Taiwan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
       <PackagePath>Assets\Flags\Tajikistan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
       <PackagePath>Assets\Flags\Tanzania.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Thailand.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Thailand.png">
       <PackagePath>Assets\Flags\Thailand.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tibet.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tibet.png">
       <PackagePath>Assets\Flags\Tibet.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
       <PackagePath>Assets\Flags\Timor-Leste.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Togo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Togo.png">
       <PackagePath>Assets\Flags\Togo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tonga.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tonga.png">
       <PackagePath>Assets\Flags\Tonga.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
       <PackagePath>Assets\Flags\Trinidad_and_Tobago.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
       <PackagePath>Assets\Flags\Tunisia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turkey.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkey.png">
       <PackagePath>Assets\Flags\Turkey.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
       <PackagePath>Assets\Flags\Turkmenistan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
       <PackagePath>Assets\Flags\Turks_and_Caicos_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
       <PackagePath>Assets\Flags\Tuvalu.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\UAE.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\UAE.png">
       <PackagePath>Assets\Flags\UAE.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uganda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uganda.png">
       <PackagePath>Assets\Flags\Uganda.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
       <PackagePath>Assets\Flags\Ukraine.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
       <PackagePath>Assets\Flags\United_Kingdom.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
       <PackagePath>Assets\Flags\United_States_of_America.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
       <PackagePath>Assets\Flags\Uruguay.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
       <PackagePath>Assets\Flags\US_Virgin_Islands.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
       <PackagePath>Assets\Flags\Uzbekistan.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
       <PackagePath>Assets\Flags\Vanuatu.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
       <PackagePath>Assets\Flags\Vatican_City.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
       <PackagePath>Assets\Flags\Venezuela.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
       <PackagePath>Assets\Flags\Vietnam.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
       <PackagePath>Assets\Flags\Wallis_and_Futuna.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Yemen.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Yemen.png">
       <PackagePath>Assets\Flags\Yemen.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Zambia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zambia.png">
       <PackagePath>Assets\Flags\Zambia.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
       <PackagePath>Assets\Flags\Zimbabwe.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
-      <PackagePath>Databases\FlagApp.db</PackagePath>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Databases\FlagAppcopie.db">
+      <PackagePath>Databases\FlagAppcopie.db</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
       <PackagePath>FlagApp.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
       <PackagePath>Done.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
       <PackagePath>Playing.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
       <PackagePath>RankingPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
       <PackagePath>FlagApp.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x64\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x86\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo></MoreInfo>
     </ResolvedSDKReference>

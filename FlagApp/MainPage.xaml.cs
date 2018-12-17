@@ -15,6 +15,7 @@ using Windows.UI.Xaml.Controls.Primitives;
 using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
+using Windows.UI.Xaml.Media.Animation;
 using Windows.UI.Xaml.Navigation;
 
 // Pour plus d'informations sur le modèle d'élément Page vierge, consultez la page https://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
@@ -52,6 +53,10 @@ namespace FlagApp
             {
                 await Windows.UI.ViewManagement.StatusBar.GetForCurrentView().HideAsync();
             }
+
+  
+
+
         }
 
         private void btnPlay_Click(object sender, RoutedEventArgs e)
@@ -72,7 +77,5 @@ namespace FlagApp
         {
             Frame.Navigate(typeof(RankingPage));
         }
-
-      
     }
 }

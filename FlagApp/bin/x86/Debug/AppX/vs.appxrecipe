@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>3c5a0bae-0909-4aaf-9a9e-d040b399a727</PackageIdentityName>
     <PackageIdentityPublisher>CN=rn605435</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,186 +18,185 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>E9D8843186AF2D73866BF24BC014FC07185DBA0A346539C80B82BE9CC240FDBB</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>50F26193E65541AAF1B664AEAA6790D135206D41C30FFF7E731D1EFA0B14F9CC</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>3c5a0bae-0909-4aaf-9a9e-d040b399a727_1.0.0.0_x86__awq8pkgk6y916</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>3c5a0bae-0909-4aaf-9a9e-d040b399a727_awq8pkgk6y916!App</RegisteredUserModeAppID>
     <RegisteredPackageID>3c5a0bae-0909-4aaf-9a9e-d040b399a727</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=rn605435</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-11T09:47:51.956</Modified>
+      <Modified>2018-12-17T12:39:21.888</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
       <PackagePath>entrypoint\FlagApp.exe</PackagePath>
-      <Modified>2018-12-11T09:47:51.176</Modified>
+      <Modified>2018-12-17T12:39:21.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
-      <Modified>2016-06-11T21:13:10.000</Modified>
+      <Modified>2016-06-11T22:13:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.ComponentModel.DataAnnotations.dll">
       <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Core.dll">
       <PackagePath>System.Core.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Net.dll">
       <PackagePath>System.Net.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Numerics.dll">
       <PackagePath>System.Numerics.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Runtime.Serialization.dll">
       <PackagePath>System.Runtime.Serialization.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.ServiceModel.Web.dll">
       <PackagePath>System.ServiceModel.Web.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.ServiceModel.dll">
       <PackagePath>System.ServiceModel.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Windows.dll">
       <PackagePath>System.Windows.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Xml.Linq.dll">
       <PackagePath>System.Xml.Linq.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Xml.Serialization.dll">
       <PackagePath>System.Xml.Serialization.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.Xml.dll">
       <PackagePath>System.Xml.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.netcore.portable.compatibility\1.0.2\lib\netcore50\System.dll">
       <PackagePath>System.dll</PackagePath>
-      <Modified>2016-07-01T16:10:48.000</Modified>
+      <Modified>2016-07-01T17:10:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.visualbasic\10.0.1\lib\netcore50\Microsoft.VisualBasic.dll">
       <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
-      <Modified>2016-06-11T21:13:10.000</Modified>
+      <Modified>2016-06-11T22:13:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.collections\4.0.11\lib\netcore50\System.Collections.dll">
       <PackagePath>System.Collections.dll</PackagePath>
-      <Modified>2016-06-11T21:13:24.000</Modified>
+      <Modified>2016-06-11T22:13:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.diagnostics.tools\4.0.1\lib\netcore50\System.Diagnostics.Tools.dll">
       <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
-      <Modified>2016-06-11T21:13:32.000</Modified>
+      <Modified>2016-06-11T22:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.diagnostics.tracing\4.1.0\lib\netcore50\System.Diagnostics.Tracing.dll">
       <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
-      <Modified>2016-06-11T21:13:38.000</Modified>
+      <Modified>2016-06-11T22:13:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.globalization\4.0.11\lib\netcore50\System.Globalization.dll">
       <PackagePath>System.Globalization.dll</PackagePath>
-      <Modified>2016-06-11T21:13:38.000</Modified>
+      <Modified>2016-06-11T22:13:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.globalization.calendars\4.0.1\lib\netcore50\System.Globalization.Calendars.dll">
       <PackagePath>System.Globalization.Calendars.dll</PackagePath>
-      <Modified>2016-06-11T21:13:38.000</Modified>
+      <Modified>2016-06-11T22:13:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.io\4.1.0\lib\netcore50\System.IO.dll">
       <PackagePath>System.IO.dll</PackagePath>
-      <Modified>2016-06-11T21:13:50.000</Modified>
+      <Modified>2016-06-11T22:13:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.reflection\4.1.0\lib\netcore50\System.Reflection.dll">
       <PackagePath>System.Reflection.dll</PackagePath>
-      <Modified>2016-06-11T21:14:16.000</Modified>
+      <Modified>2016-06-11T22:14:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.reflection.extensions\4.0.1\lib\netcore50\System.Reflection.Extensions.dll">
       <PackagePath>System.Reflection.Extensions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:14.000</Modified>
+      <Modified>2016-06-11T22:14:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.reflection.primitives\4.0.1\lib\netcore50\System.Reflection.Primitives.dll">
       <PackagePath>System.Reflection.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:14:18.000</Modified>
+      <Modified>2016-06-11T22:14:18.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.resources.resourcemanager\4.0.1\lib\netcore50\System.Resources.ResourceManager.dll">
       <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
-      <Modified>2016-06-11T21:14:20.000</Modified>
+      <Modified>2016-06-11T22:14:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.runtime\4.1.0\lib\netcore50\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
-      <Modified>2016-06-11T21:14:32.000</Modified>
+      <Modified>2016-06-11T22:14:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.runtime.handles\4.0.1\lib\netstandard1.3\System.Runtime.Handles.dll">
       <PackagePath>System.Runtime.Handles.dll</PackagePath>
-      <Modified>2016-06-11T21:14:24.000</Modified>
+      <Modified>2016-06-11T22:14:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.runtime.interopservices\4.1.0\lib\netcore50\System.Runtime.InteropServices.dll">
       <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
-      <Modified>2016-06-11T21:14:22.000</Modified>
+      <Modified>2016-06-11T22:14:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.text.encoding\4.0.11\lib\netcore50\System.Text.Encoding.dll">
       <PackagePath>System.Text.Encoding.dll</PackagePath>
-      <Modified>2016-06-11T21:14:48.000</Modified>
+      <Modified>2016-06-11T22:14:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.text.encoding.extensions\4.0.11\lib\netcore50\System.Text.Encoding.Extensions.dll">
       <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:50.000</Modified>
+      <Modified>2016-06-11T22:14:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.threading.tasks\4.0.11\lib\netcore50\System.Threading.Tasks.dll">
       <PackagePath>System.Threading.Tasks.dll</PackagePath>
-      <Modified>2016-06-11T21:14:54.000</Modified>
+      <Modified>2016-06-11T22:14:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.any.system.threading.timer\4.0.1\lib\netcore50\System.Threading.Timer.dll">
       <PackagePath>System.Threading.Timer.dll</PackagePath>
-      <Modified>2016-06-11T21:14:58.000</Modified>
+      <Modified>2016-06-11T22:14:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.microsoft.win32.primitives\4.0.1\runtimes\win\lib\netstandard1.3\Microsoft.Win32.Primitives.dll">
       <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:13:14.000</Modified>
+      <Modified>2016-06-11T22:13:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.system.diagnostics.debug\4.0.11\runtimes\win\lib\netcore50\System.Diagnostics.Debug.dll">
       <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
-      <Modified>2016-06-11T21:13:26.000</Modified>
+      <Modified>2016-06-11T22:13:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.system.io.filesystem\4.0.1\runtimes\win\lib\netcore50\System.IO.FileSystem.dll">
       <PackagePath>System.IO.FileSystem.dll</PackagePath>
-      <Modified>2016-06-11T21:13:44.000</Modified>
+      <Modified>2016-06-11T22:13:44.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.system.net.primitives\4.0.11\runtimes\win\lib\netcore50\System.Net.Primitives.dll">
       <PackagePath>System.Net.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:14:00.000</Modified>
+      <Modified>2016-06-11T22:14:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.system.net.sockets\4.1.0\runtimes\win\lib\netcore50\System.Net.Sockets.dll">
       <PackagePath>System.Net.Sockets.dll</PackagePath>
-      <Modified>2016-06-11T21:14:04.000</Modified>
+      <Modified>2016-06-11T22:14:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win.system.runtime.extensions\4.1.0\runtimes\win\lib\netcore50\System.Runtime.Extensions.dll">
       <PackagePath>System.Runtime.Extensions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:20.000</Modified>
+      <Modified>2016-06-11T22:14:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win7-x86.microsoft.netcore.jit\1.0.3\runtimes\win7-x86\native\clrjit.dll">
       <PackagePath>clrjit.dll</PackagePath>
-      <Modified>2016-06-13T16:27:02.000</Modified>
+      <Modified>2016-06-13T17:27:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win7-x86.runtime.native.system.io.compression\4.0.1\runtimes\win7-x86\native\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
-      <Modified>2016-06-13T19:51:30.000</Modified>
+      <Modified>2016-06-13T20:51:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win7.system.private.uri\4.0.2\runtimes\win\lib\netcore50\System.Private.Uri.dll">
       <PackagePath>System.Private.Uri.dll</PackagePath>
-      <Modified>2016-07-01T13:48:12.000</Modified>
+      <Modified>2016-07-01T14:48:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\.nuget\packages\sqlite.net-pcl\3.1.1\lib\Windows8\SQLite.Net.Platform.WinRT.dll">
       <PackagePath>SQLite.Net.Platform.WinRT.dll</PackagePath>
@@ -209,99 +208,99 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.appcontext\4.1.0\lib\netcore50\System.AppContext.dll">
       <PackagePath>System.AppContext.dll</PackagePath>
-      <Modified>2016-06-11T21:13:20.000</Modified>
+      <Modified>2016-06-11T22:13:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.buffers\4.0.0\lib\netstandard1.1\System.Buffers.dll">
       <PackagePath>System.Buffers.dll</PackagePath>
-      <Modified>2016-06-11T21:13:14.000</Modified>
+      <Modified>2016-06-11T22:13:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.concurrent\4.0.12\lib\netcore50\System.Collections.Concurrent.dll">
       <PackagePath>System.Collections.Concurrent.dll</PackagePath>
-      <Modified>2016-06-11T21:13:16.000</Modified>
+      <Modified>2016-06-11T22:13:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.immutable\1.2.0\lib\portable-net45+win8+wp8+wpa81\System.Collections.Immutable.dll">
       <PackagePath>System.Collections.Immutable.dll</PackagePath>
-      <Modified>2016-06-11T21:13:16.000</Modified>
+      <Modified>2016-06-11T22:13:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.nongeneric\4.0.1\lib\netstandard1.3\System.Collections.NonGeneric.dll">
       <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
-      <Modified>2016-06-11T21:13:22.000</Modified>
+      <Modified>2016-06-11T22:13:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.collections.specialized\4.0.1\lib\netstandard1.3\System.Collections.Specialized.dll">
       <PackagePath>System.Collections.Specialized.dll</PackagePath>
-      <Modified>2016-06-11T21:13:22.000</Modified>
+      <Modified>2016-06-11T22:13:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel\4.0.1\lib\netcore50\System.ComponentModel.dll">
       <PackagePath>System.ComponentModel.dll</PackagePath>
-      <Modified>2016-06-11T21:13:24.000</Modified>
+      <Modified>2016-06-11T22:13:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.annotations\4.1.0\lib\netcore50\System.ComponentModel.Annotations.dll">
       <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
-      <Modified>2016-06-11T21:13:22.000</Modified>
+      <Modified>2016-06-11T22:13:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.componentmodel.eventbasedasync\4.0.11\lib\netcore50\System.ComponentModel.EventBasedAsync.dll">
       <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
-      <Modified>2016-06-11T21:13:20.000</Modified>
+      <Modified>2016-06-11T22:13:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.data.common\4.1.0\lib\netstandard1.2\System.Data.Common.dll">
       <PackagePath>System.Data.Common.dll</PackagePath>
-      <Modified>2016-06-11T21:13:32.000</Modified>
+      <Modified>2016-06-11T22:13:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.diagnostics.contracts\4.0.1\lib\netcore50\System.Diagnostics.Contracts.dll">
       <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
-      <Modified>2016-06-11T21:13:28.000</Modified>
+      <Modified>2016-06-11T22:13:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.diagnostics.diagnosticsource\4.0.0\lib\netstandard1.3\System.Diagnostics.DiagnosticSource.dll">
       <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
-      <Modified>2016-06-11T21:13:28.000</Modified>
+      <Modified>2016-06-11T22:13:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.diagnostics.stacktrace\4.0.2\lib\netstandard1.3\System.Diagnostics.StackTrace.dll">
       <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
-      <Modified>2016-07-01T13:48:16.000</Modified>
+      <Modified>2016-07-01T14:48:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.dynamic.runtime\4.0.11\lib\netcore50\System.Dynamic.Runtime.dll">
       <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
-      <Modified>2016-06-11T21:13:42.000</Modified>
+      <Modified>2016-06-11T22:13:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.globalization.extensions\4.0.1\runtimes\win\lib\netstandard1.3\System.Globalization.Extensions.dll">
       <PackagePath>System.Globalization.Extensions.dll</PackagePath>
-      <Modified>2016-06-11T21:13:40.000</Modified>
+      <Modified>2016-06-11T22:13:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.compression\4.1.1\runtimes\win\lib\netstandard1.3\System.IO.Compression.dll">
       <PackagePath>System.IO.Compression.dll</PackagePath>
-      <Modified>2016-07-01T13:48:16.000</Modified>
+      <Modified>2016-07-01T14:48:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.compression.zipfile\4.0.1\lib\netstandard1.3\System.IO.Compression.ZipFile.dll">
       <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
-      <Modified>2016-06-11T21:13:42.000</Modified>
+      <Modified>2016-06-11T22:13:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.filesystem.primitives\4.0.1\lib\netstandard1.3\System.IO.FileSystem.Primitives.dll">
       <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:13:46.000</Modified>
+      <Modified>2016-06-11T22:13:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.isolatedstorage\4.0.1\lib\netcore50\System.IO.IsolatedStorage.dll">
       <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
-      <Modified>2016-06-11T21:13:48.000</Modified>
+      <Modified>2016-06-11T22:13:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.io.unmanagedmemorystream\4.0.1\lib\netstandard1.3\System.IO.UnmanagedMemoryStream.dll">
       <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
-      <Modified>2016-06-11T21:13:50.000</Modified>
+      <Modified>2016-06-11T22:13:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.linq\4.1.0\lib\netcore50\System.Linq.dll">
       <PackagePath>System.Linq.dll</PackagePath>
-      <Modified>2016-06-11T21:14:02.000</Modified>
+      <Modified>2016-06-11T22:14:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.linq.expressions\4.1.0\lib\netcore50\System.Linq.Expressions.dll">
       <PackagePath>System.Linq.Expressions.dll</PackagePath>
-      <Modified>2016-06-11T21:13:54.000</Modified>
+      <Modified>2016-06-11T22:13:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.linq.parallel\4.0.1\lib\netcore50\System.Linq.Parallel.dll">
       <PackagePath>System.Linq.Parallel.dll</PackagePath>
-      <Modified>2016-06-11T21:13:52.000</Modified>
+      <Modified>2016-06-11T22:13:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.linq.queryable\4.0.1\lib\netcore50\System.Linq.Queryable.dll">
       <PackagePath>System.Linq.Queryable.dll</PackagePath>
-      <Modified>2016-06-11T21:13:58.000</Modified>
+      <Modified>2016-06-11T22:13:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\.nuget\packages\system.net.http\4.1.0\runtimes\win\lib\netcore50\System.Net.Http.dll">
       <PackagePath>System.Net.Http.dll</PackagePath>
@@ -309,199 +308,199 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.http.rtc\4.0.1\runtimes\win\lib\netcore50\System.Net.Http.Rtc.dll">
       <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
-      <Modified>2016-06-11T21:13:56.000</Modified>
+      <Modified>2016-06-11T22:13:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.nameresolution\4.0.0\runtimes\win\lib\netcore50\System.Net.NameResolution.dll">
       <PackagePath>System.Net.NameResolution.dll</PackagePath>
-      <Modified>2016-06-11T21:13:58.000</Modified>
+      <Modified>2016-06-11T22:13:58.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.networkinformation\4.1.0\runtimes\win\lib\netcore50\System.Net.NetworkInformation.dll">
       <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
-      <Modified>2016-06-11T21:14:04.000</Modified>
+      <Modified>2016-06-11T22:14:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.requests\4.0.11\runtimes\win\lib\netstandard1.3\System.Net.Requests.dll">
       <PackagePath>System.Net.Requests.dll</PackagePath>
-      <Modified>2016-06-11T21:14:02.000</Modified>
+      <Modified>2016-06-11T22:14:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.webheadercollection\4.0.1\lib\netstandard1.3\System.Net.WebHeaderCollection.dll">
       <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
-      <Modified>2016-06-11T21:14:08.000</Modified>
+      <Modified>2016-06-11T22:14:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.websockets\4.0.0\lib\netstandard1.3\System.Net.WebSockets.dll">
       <PackagePath>System.Net.WebSockets.dll</PackagePath>
-      <Modified>2016-06-11T21:14:08.000</Modified>
+      <Modified>2016-06-11T22:14:08.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.net.websockets.client\4.0.2\runtimes\win\lib\netcore50\System.Net.WebSockets.Client.dll">
       <PackagePath>System.Net.WebSockets.Client.dll</PackagePath>
-      <Modified>2017-11-20T13:34:00.000</Modified>
+      <Modified>2017-11-20T14:34:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.numerics.vectors\4.1.1\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll">
       <PackagePath>System.Numerics.Vectors.dll</PackagePath>
-      <Modified>2016-06-11T21:14:10.000</Modified>
+      <Modified>2016-06-11T22:14:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.numerics.vectors.windowsruntime\4.0.1\lib\uap10.0\System.Numerics.Vectors.WindowsRuntime.dll">
       <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
-      <Modified>2016-06-11T21:14:06.000</Modified>
+      <Modified>2016-06-11T22:14:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.objectmodel\4.0.12\lib\netcore50\System.ObjectModel.dll">
       <PackagePath>System.ObjectModel.dll</PackagePath>
-      <Modified>2016-06-11T21:14:10.000</Modified>
+      <Modified>2016-06-11T22:14:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.private.datacontractserialization\4.1.2\lib\netstandard1.3\System.Private.DataContractSerialization.dll">
       <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
-      <Modified>2017-02-09T12:26:02.000</Modified>
+      <Modified>2017-02-09T13:26:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.private.servicemodel\4.1.3\runtimes\win7\lib\netcore50\System.Private.ServiceModel.dll">
       <PackagePath>System.Private.ServiceModel.dll</PackagePath>
-      <Modified>2018-07-19T13:45:16.000</Modified>
+      <Modified>2018-07-19T14:45:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.context\4.0.1\lib\netcore50\System.Reflection.Context.dll">
       <PackagePath>System.Reflection.Context.dll</PackagePath>
-      <Modified>2016-06-11T21:14:10.000</Modified>
+      <Modified>2016-06-11T22:14:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.dispatchproxy\4.0.1\lib\netstandard1.3\System.Reflection.DispatchProxy.dll">
       <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
-      <Modified>2016-06-11T21:14:14.000</Modified>
+      <Modified>2016-06-11T22:14:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.emit\4.0.1\lib\netcore50\System.Reflection.Emit.dll">
       <PackagePath>System.Reflection.Emit.dll</PackagePath>
-      <Modified>2016-06-11T21:14:16.000</Modified>
+      <Modified>2016-06-11T22:14:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.emit.ilgeneration\4.0.1\lib\netcore50\System.Reflection.Emit.ILGeneration.dll">
       <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
-      <Modified>2016-06-11T21:14:14.000</Modified>
+      <Modified>2016-06-11T22:14:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.emit.lightweight\4.0.1\lib\netcore50\System.Reflection.Emit.Lightweight.dll">
       <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
-      <Modified>2016-06-11T21:14:16.000</Modified>
+      <Modified>2016-06-11T22:14:16.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.metadata\1.3.0\lib\portable-net45+win8\System.Reflection.Metadata.dll">
       <PackagePath>System.Reflection.Metadata.dll</PackagePath>
-      <Modified>2016-06-11T21:14:14.000</Modified>
+      <Modified>2016-06-11T22:14:14.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.reflection.typeextensions\4.1.0\lib\netcore50\System.Reflection.TypeExtensions.dll">
       <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:22.000</Modified>
+      <Modified>2016-06-11T22:14:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.interopservices.windowsruntime\4.0.1\lib\netcore50\System.Runtime.InteropServices.WindowsRuntime.dll">
       <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
-      <Modified>2016-06-11T21:14:26.000</Modified>
+      <Modified>2016-06-11T22:14:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.numerics\4.0.1\lib\netcore50\System.Runtime.Numerics.dll">
       <PackagePath>System.Runtime.Numerics.dll</PackagePath>
-      <Modified>2016-06-11T21:14:30.000</Modified>
+      <Modified>2016-06-11T22:14:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.serialization.json\4.0.3\lib\netcore50\System.Runtime.Serialization.Json.dll">
       <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
-      <Modified>2017-02-09T12:26:02.000</Modified>
+      <Modified>2017-02-09T13:26:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.serialization.primitives\4.1.1\lib\netcore50\System.Runtime.Serialization.Primitives.dll">
       <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:14:32.000</Modified>
+      <Modified>2016-06-11T22:14:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.serialization.xml\4.1.2\lib\netcore50\System.Runtime.Serialization.Xml.dll">
       <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
-      <Modified>2017-02-09T12:26:02.000</Modified>
+      <Modified>2017-02-09T13:26:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.windowsruntime\4.0.11\runtimes\win8\lib\netstandard1.3\System.Runtime.WindowsRuntime.dll">
       <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
-      <Modified>2016-06-11T21:14:36.000</Modified>
+      <Modified>2016-06-11T22:14:36.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.runtime.windowsruntime.ui.xaml\4.0.1\runtimes\win8\lib\netstandard1.3\System.Runtime.WindowsRuntime.UI.Xaml.dll">
       <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
-      <Modified>2016-06-11T21:14:32.000</Modified>
+      <Modified>2016-06-11T22:14:32.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.claims\4.0.1\lib\netstandard1.3\System.Security.Claims.dll">
       <PackagePath>System.Security.Claims.dll</PackagePath>
-      <Modified>2016-06-11T21:14:40.000</Modified>
+      <Modified>2016-06-11T22:14:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.algorithms\4.2.0\runtimes\win\lib\netcore50\System.Security.Cryptography.Algorithms.dll">
       <PackagePath>System.Security.Cryptography.Algorithms.dll</PackagePath>
-      <Modified>2016-06-11T21:14:42.000</Modified>
+      <Modified>2016-06-11T22:14:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.cng\4.2.0\runtimes\win\lib\netstandard1.4\System.Security.Cryptography.Cng.dll">
       <PackagePath>System.Security.Cryptography.Cng.dll</PackagePath>
-      <Modified>2016-06-11T21:14:42.000</Modified>
+      <Modified>2016-06-11T22:14:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.encoding\4.0.0\runtimes\win\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll">
       <PackagePath>System.Security.Cryptography.Encoding.dll</PackagePath>
-      <Modified>2016-06-11T21:14:38.000</Modified>
+      <Modified>2016-06-11T22:14:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.primitives\4.0.0\lib\netstandard1.3\System.Security.Cryptography.Primitives.dll">
       <PackagePath>System.Security.Cryptography.Primitives.dll</PackagePath>
-      <Modified>2016-06-11T21:14:42.000</Modified>
+      <Modified>2016-06-11T22:14:42.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.cryptography.x509certificates\4.1.0\runtimes\win\lib\netcore50\System.Security.Cryptography.X509Certificates.dll">
       <PackagePath>System.Security.Cryptography.X509Certificates.dll</PackagePath>
-      <Modified>2016-06-11T21:14:48.000</Modified>
+      <Modified>2016-06-11T22:14:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.security.principal\4.0.1\lib\netcore50\System.Security.Principal.dll">
       <PackagePath>System.Security.Principal.dll</PackagePath>
-      <Modified>2016-06-11T21:14:46.000</Modified>
+      <Modified>2016-06-11T22:14:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.servicemodel.duplex\4.0.4\lib\netcore50\System.ServiceModel.Duplex.dll">
       <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
-      <Modified>2018-07-19T15:47:10.000</Modified>
+      <Modified>2018-07-19T16:47:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.servicemodel.http\4.1.3\lib\netcore50\System.ServiceModel.Http.dll">
       <PackagePath>System.ServiceModel.Http.dll</PackagePath>
-      <Modified>2018-07-19T15:47:12.000</Modified>
+      <Modified>2018-07-19T14:45:22.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.servicemodel.nettcp\4.1.3\lib\netcore50\System.ServiceModel.NetTcp.dll">
       <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
-      <Modified>2018-07-19T15:47:14.000</Modified>
+      <Modified>2018-07-19T14:45:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.servicemodel.primitives\4.1.3\lib\netcore50\System.ServiceModel.Primitives.dll">
       <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
-      <Modified>2018-07-19T15:47:16.000</Modified>
+      <Modified>2018-07-19T14:45:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.servicemodel.security\4.0.4\lib\netcore50\System.ServiceModel.Security.dll">
       <PackagePath>System.ServiceModel.Security.dll</PackagePath>
-      <Modified>2018-07-19T15:47:18.000</Modified>
+      <Modified>2018-07-19T14:45:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.text.encoding.codepages\4.0.1\runtimes\win\lib\netstandard1.3\System.Text.Encoding.CodePages.dll">
       <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
-      <Modified>2016-06-11T21:14:46.000</Modified>
+      <Modified>2016-06-11T22:14:46.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.text.regularexpressions\4.1.0\lib\netcore50\System.Text.RegularExpressions.dll">
       <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:52.000</Modified>
+      <Modified>2016-06-11T22:14:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading\4.0.11\lib\netcore50\System.Threading.dll">
       <PackagePath>System.Threading.dll</PackagePath>
-      <Modified>2016-06-11T21:15:00.000</Modified>
+      <Modified>2016-06-11T22:15:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.overlapped\4.0.1\runtimes\win\lib\netcore50\System.Threading.Overlapped.dll">
       <PackagePath>System.Threading.Overlapped.dll</PackagePath>
-      <Modified>2016-06-11T21:14:54.000</Modified>
+      <Modified>2016-06-11T22:14:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.dataflow\4.6.0\lib\netstandard1.1\System.Threading.Tasks.Dataflow.dll">
       <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
-      <Modified>2016-06-11T21:14:52.000</Modified>
+      <Modified>2016-06-11T22:14:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.extensions\4.0.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll">
       <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
-      <Modified>2016-06-11T21:14:52.000</Modified>
+      <Modified>2016-06-11T22:14:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.threading.tasks.parallel\4.0.1\lib\netcore50\System.Threading.Tasks.Parallel.dll">
       <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
-      <Modified>2016-06-11T21:14:54.000</Modified>
+      <Modified>2016-06-11T22:14:54.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.readerwriter\4.0.11\lib\netcore50\System.Xml.ReaderWriter.dll">
       <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
-      <Modified>2016-06-11T21:15:00.000</Modified>
+      <Modified>2016-06-11T22:15:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xdocument\4.0.11\lib\netcore50\System.Xml.XDocument.dll">
       <PackagePath>System.Xml.XDocument.dll</PackagePath>
-      <Modified>2016-06-11T21:15:00.000</Modified>
+      <Modified>2016-06-11T22:15:00.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmldocument\4.0.1\lib\netstandard1.3\System.Xml.XmlDocument.dll">
       <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
-      <Modified>2016-06-11T21:15:02.000</Modified>
+      <Modified>2016-06-11T22:15:02.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
-      <Modified>2016-06-11T21:15:04.000</Modified>
+      <Modified>2016-06-11T22:15:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UAP\v0.8.0.0\ExtensionSDKs\SQLite.UWP.2015\3.26.0\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
@@ -509,1070 +508,1087 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.17134.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
-      <Modified>2018-04-19T22:05:16.000</Modified>
+      <Modified>2018-04-19T23:05:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\bronze.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\bronze.png">
       <PackagePath>Assets\bronze.png</PackagePath>
-      <Modified>2018-12-11T07:59:49.658</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\silver.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\silver.png">
       <PackagePath>Assets\silver.png</PackagePath>
-      <Modified>2018-12-11T07:59:54.343</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\gold.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\gold.png">
       <PackagePath>Assets\gold.png</PackagePath>
-      <Modified>2018-12-11T07:59:59.111</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
       <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.724</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Albania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Albania.png">
       <PackagePath>Assets\Flags\Albania.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.727</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Algeria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Algeria.png">
       <PackagePath>Assets\Flags\Algeria.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.729</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
       <PackagePath>Assets\Flags\American_Samoa.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.731</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Andorra.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Andorra.png">
       <PackagePath>Assets\Flags\Andorra.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.733</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Angola.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Angola.png">
       <PackagePath>Assets\Flags\Angola.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.736</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
       <PackagePath>Assets\Flags\Anguilla.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.738</Modified>
+      <Modified>2018-12-11T11:31:27.171</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
       <PackagePath>Assets\Flags\Antigua_and_Barbuda.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.740</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Argentina.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Argentina.png">
       <PackagePath>Assets\Flags\Argentina.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.742</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Armenia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Armenia.png">
       <PackagePath>Assets\Flags\Armenia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.745</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Aruba.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Aruba.png">
       <PackagePath>Assets\Flags\Aruba.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.747</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Australia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Australia.png">
       <PackagePath>Assets\Flags\Australia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.749</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Austria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Austria.png">
       <PackagePath>Assets\Flags\Austria.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.751</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
       <PackagePath>Assets\Flags\Azerbaijan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.754</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
       <PackagePath>Assets\Flags\Bahamas.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.756</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
       <PackagePath>Assets\Flags\Bahrain.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.758</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
       <PackagePath>Assets\Flags\Bangladesh.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.761</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Barbados.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Barbados.png">
       <PackagePath>Assets\Flags\Barbados.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.763</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belarus.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belarus.png">
       <PackagePath>Assets\Flags\Belarus.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.765</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belgium.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belgium.png">
       <PackagePath>Assets\Flags\Belgium.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.767</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Belize.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belize.png">
       <PackagePath>Assets\Flags\Belize.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.770</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Benin.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Benin.png">
       <PackagePath>Assets\Flags\Benin.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.772</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
       <PackagePath>Assets\Flags\Bermuda.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.774</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
       <PackagePath>Assets\Flags\Bhutan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.776</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
       <PackagePath>Assets\Flags\Bolivia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.778</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
       <PackagePath>Assets\Flags\Bosnia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.781</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Botswana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Botswana.png">
       <PackagePath>Assets\Flags\Botswana.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.783</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Brazil.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brazil.png">
       <PackagePath>Assets\Flags\Brazil.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.785</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
       <PackagePath>Assets\Flags\British_Virgin_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.788</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Brunei.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brunei.png">
       <PackagePath>Assets\Flags\Brunei.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.790</Modified>
+      <Modified>2018-12-11T11:31:27.187</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
       <PackagePath>Assets\Flags\Bulgaria.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.792</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
       <PackagePath>Assets\Flags\Burkina_Faso.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.794</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Burundi.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burundi.png">
       <PackagePath>Assets\Flags\Burundi.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.797</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
       <PackagePath>Assets\Flags\Cambodia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.800</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
       <PackagePath>Assets\Flags\Cameroon.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.802</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Canada.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Canada.png">
       <PackagePath>Assets\Flags\Canada.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.805</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
       <PackagePath>Assets\Flags\Cape_Verde.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.807</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
       <PackagePath>Assets\Flags\Cayman_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.809</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
       <PackagePath>Assets\Flags\Central_African_Republic.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.812</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Chad.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chad.png">
       <PackagePath>Assets\Flags\Chad.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.814</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Chile.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chile.png">
       <PackagePath>Assets\Flags\Chile.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.817</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\China.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\China.png">
       <PackagePath>Assets\Flags\China.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.819</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
       <PackagePath>Assets\Flags\Christmas_Island.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.821</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Colombia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Colombia.png">
       <PackagePath>Assets\Flags\Colombia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.824</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Comoros.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Comoros.png">
       <PackagePath>Assets\Flags\Comoros.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.826</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
       <PackagePath>Assets\Flags\Cook_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.828</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
       <PackagePath>Assets\Flags\Costa_Rica.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.830</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Croatia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Croatia.png">
       <PackagePath>Assets\Flags\Croatia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.835</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cuba.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cuba.png">
       <PackagePath>Assets\Flags\Cuba.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.838</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
       <PackagePath>Assets\Flags\Cyprus.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.840</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
       <PackagePath>Assets\Flags\Czech_Republic.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.842</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
       <PackagePath>Assets\Flags\Côte_d%27Ivoire.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.833</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
       <PackagePath>Assets\Flags\Democratic_Republic_of_the_Congo.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.845</Modified>
+      <Modified>2018-12-11T11:31:27.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Denmark.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Denmark.png">
       <PackagePath>Assets\Flags\Denmark.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.847</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
       <PackagePath>Assets\Flags\Djibouti.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.850</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Dominica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominica.png">
       <PackagePath>Assets\Flags\Dominica.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.853</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
       <PackagePath>Assets\Flags\Dominican_Republic.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.856</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
       <PackagePath>Assets\Flags\Ecuador.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.858</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Egypt.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Egypt.png">
       <PackagePath>Assets\Flags\Egypt.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.860</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
       <PackagePath>Assets\Flags\El_Salvador.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.862</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
       <PackagePath>Assets\Flags\Equatorial_Guinea.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.865</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
       <PackagePath>Assets\Flags\Eritrea.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.867</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Estonia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Estonia.png">
       <PackagePath>Assets\Flags\Estonia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.871</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
       <PackagePath>Assets\Flags\Ethiopia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.874</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
       <PackagePath>Assets\Flags\Falkland_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.876</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
       <PackagePath>Assets\Flags\Faroe_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.879</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Fiji.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Fiji.png">
       <PackagePath>Assets\Flags\Fiji.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.881</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Finland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Finland.png">
       <PackagePath>Assets\Flags\Finland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.883</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\France.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\France.png">
       <PackagePath>Assets\Flags\France.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.885</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
       <PackagePath>Assets\Flags\French_Polynesia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.887</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gabon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gabon.png">
       <PackagePath>Assets\Flags\Gabon.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.889</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gambia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gambia.png">
       <PackagePath>Assets\Flags\Gambia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.892</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Georgia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Georgia.png">
       <PackagePath>Assets\Flags\Georgia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.894</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Germany.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Germany.png">
       <PackagePath>Assets\Flags\Germany.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.896</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ghana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ghana.png">
       <PackagePath>Assets\Flags\Ghana.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.899</Modified>
+      <Modified>2018-12-11T11:31:27.218</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
       <PackagePath>Assets\Flags\Gibraltar.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.901</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Greece.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greece.png">
       <PackagePath>Assets\Flags\Greece.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.903</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Greenland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greenland.png">
       <PackagePath>Assets\Flags\Greenland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.905</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Grenada.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Grenada.png">
       <PackagePath>Assets\Flags\Grenada.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.908</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guam.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guam.png">
       <PackagePath>Assets\Flags\Guam.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.910</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
       <PackagePath>Assets\Flags\Guatemala.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.912</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea.png">
       <PackagePath>Assets\Flags\Guinea.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.914</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
       <PackagePath>Assets\Flags\Guinea_Bissau.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.917</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Guyana.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guyana.png">
       <PackagePath>Assets\Flags\Guyana.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.919</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Haiti.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Haiti.png">
       <PackagePath>Assets\Flags\Haiti.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.921</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Honduras.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Honduras.png">
       <PackagePath>Assets\Flags\Honduras.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.924</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
       <PackagePath>Assets\Flags\Hong_Kong.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.926</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Hungary.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hungary.png">
       <PackagePath>Assets\Flags\Hungary.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.928</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iceland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iceland.png">
       <PackagePath>Assets\Flags\Iceland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.931</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\India.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\India.png">
       <PackagePath>Assets\Flags\India.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.933</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
       <PackagePath>Assets\Flags\Indonesia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.935</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iran.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iran.png">
       <PackagePath>Assets\Flags\Iran.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.937</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Iraq.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iraq.png">
       <PackagePath>Assets\Flags\Iraq.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.940</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ireland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ireland.png">
       <PackagePath>Assets\Flags\Ireland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.942</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Israel.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Israel.png">
       <PackagePath>Assets\Flags\Israel.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.944</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Italy.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Italy.png">
       <PackagePath>Assets\Flags\Italy.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.946</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
       <PackagePath>Assets\Flags\Jamaica.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.948</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Japan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Japan.png">
       <PackagePath>Assets\Flags\Japan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.951</Modified>
+      <Modified>2018-12-11T11:31:27.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Jordan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jordan.png">
       <PackagePath>Assets\Flags\Jordan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.953</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
       <PackagePath>Assets\Flags\Kazakhstan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.955</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kenya.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kenya.png">
       <PackagePath>Assets\Flags\Kenya.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.957</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
       <PackagePath>Assets\Flags\Kiribati.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.960</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
       <PackagePath>Assets\Flags\Kuwait.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.962</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
       <PackagePath>Assets\Flags\Kyrgyzstan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.964</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Laos.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Laos.png">
       <PackagePath>Assets\Flags\Laos.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.966</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Latvia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Latvia.png">
       <PackagePath>Assets\Flags\Latvia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.968</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
       <PackagePath>Assets\Flags\Lebanon.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.971</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
       <PackagePath>Assets\Flags\Lesotho.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.973</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Liberia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liberia.png">
       <PackagePath>Assets\Flags\Liberia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.975</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Libya.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Libya.png">
       <PackagePath>Assets\Flags\Libya.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.977</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
       <PackagePath>Assets\Flags\Liechtenstein.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.980</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
       <PackagePath>Assets\Flags\Lithuania.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.982</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
       <PackagePath>Assets\Flags\Luxembourg.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.984</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Macao.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macao.png">
       <PackagePath>Assets\Flags\Macao.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.986</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
       <PackagePath>Assets\Flags\Macedonia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.989</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
       <PackagePath>Assets\Flags\Madagascar.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.991</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malawi.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malawi.png">
       <PackagePath>Assets\Flags\Malawi.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.993</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
       <PackagePath>Assets\Flags\Malaysia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.995</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Maldives.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Maldives.png">
       <PackagePath>Assets\Flags\Maldives.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.998</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mali.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mali.png">
       <PackagePath>Assets\Flags\Mali.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.000</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Malta.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malta.png">
       <PackagePath>Assets\Flags\Malta.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.002</Modified>
+      <Modified>2018-12-11T11:31:27.249</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
       <PackagePath>Assets\Flags\Marshall_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.005</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Martinique.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Martinique.png">
       <PackagePath>Assets\Flags\Martinique.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.007</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
       <PackagePath>Assets\Flags\Mauritania.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.009</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
       <PackagePath>Assets\Flags\Mauritius.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.011</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mexico.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mexico.png">
       <PackagePath>Assets\Flags\Mexico.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.014</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
       <PackagePath>Assets\Flags\Micronesia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.016</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Moldova.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Moldova.png">
       <PackagePath>Assets\Flags\Moldova.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.018</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Monaco.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Monaco.png">
       <PackagePath>Assets\Flags\Monaco.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.021</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
       <PackagePath>Assets\Flags\Mongolia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.023</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
       <PackagePath>Assets\Flags\Montserrat.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.025</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Morocco.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Morocco.png">
       <PackagePath>Assets\Flags\Morocco.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.027</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
       <PackagePath>Assets\Flags\Mozambique.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.030</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
       <PackagePath>Assets\Flags\Myanmar.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.032</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Namibia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Namibia.png">
       <PackagePath>Assets\Flags\Namibia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.034</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nauru.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nauru.png">
       <PackagePath>Assets\Flags\Nauru.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.037</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nepal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nepal.png">
       <PackagePath>Assets\Flags\Nepal.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.039</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
       <PackagePath>Assets\Flags\Netherlands.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.042</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
       <PackagePath>Assets\Flags\Netherlands_Antilles.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.044</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
       <PackagePath>Assets\Flags\New_Zealand.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.046</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
       <PackagePath>Assets\Flags\Nicaragua.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.049</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Niger.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niger.png">
       <PackagePath>Assets\Flags\Niger.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.051</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
       <PackagePath>Assets\Flags\Nigeria.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.053</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Niue.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niue.png">
       <PackagePath>Assets\Flags\Niue.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.055</Modified>
+      <Modified>2018-12-11T11:31:27.265</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
       <PackagePath>Assets\Flags\Norfolk_Island.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.058</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
       <PackagePath>Assets\Flags\North_Korea.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.060</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Norway.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norway.png">
       <PackagePath>Assets\Flags\Norway.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.062</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Oman.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Oman.png">
       <PackagePath>Assets\Flags\Oman.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.064</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
       <PackagePath>Assets\Flags\Pakistan.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.066</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Palau.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Palau.png">
       <PackagePath>Assets\Flags\Palau.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.069</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Panama.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Panama.png">
       <PackagePath>Assets\Flags\Panama.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.071</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
       <PackagePath>Assets\Flags\Papua_New_Guinea.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.073</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
       <PackagePath>Assets\Flags\Paraguay.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.075</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Peru.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Peru.png">
       <PackagePath>Assets\Flags\Peru.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.078</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Philippines.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Philippines.png">
       <PackagePath>Assets\Flags\Philippines.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.080</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
       <PackagePath>Assets\Flags\Pitcairn_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.083</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Poland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Poland.png">
       <PackagePath>Assets\Flags\Poland.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.085</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Portugal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Portugal.png">
       <PackagePath>Assets\Flags\Portugal.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.087</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
       <PackagePath>Assets\Flags\Puerto_Rico.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.090</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Qatar.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Qatar.png">
       <PackagePath>Assets\Flags\Qatar.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.092</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
       <PackagePath>Assets\Flags\Republic_of_the_Congo.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.094</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Romania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Romania.png">
       <PackagePath>Assets\Flags\Romania.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.096</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
       <PackagePath>Assets\Flags\Russian_Federation.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.099</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
       <PackagePath>Assets\Flags\Rwanda.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.101</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
       <PackagePath>Assets\Flags\Saint_Kitts_and_Nevis.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.104</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
       <PackagePath>Assets\Flags\Saint_Lucia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.106</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
       <PackagePath>Assets\Flags\Saint_Pierre.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.108</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
       <PackagePath>Assets\Flags\Saint_Vicent_and_the_Grenadines.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.110</Modified>
+      <Modified>2018-12-11T11:31:27.280</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Samoa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Samoa.png">
       <PackagePath>Assets\Flags\Samoa.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.113</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
       <PackagePath>Assets\Flags\San_Marino.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.115</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
       <PackagePath>Assets\Flags\Sao_Tomé_and_Príncipe.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.117</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
       <PackagePath>Assets\Flags\Saudi_Arabia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.120</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Senegal.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Senegal.png">
       <PackagePath>Assets\Flags\Senegal.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.122</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
       <PackagePath>Assets\Flags\Serbia_and_Montenegro.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.124</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
       <PackagePath>Assets\Flags\Seychelles.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.142</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
       <PackagePath>Assets\Flags\Sierra_Leone.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.147</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Singapore.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Singapore.png">
       <PackagePath>Assets\Flags\Singapore.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.151</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
       <PackagePath>Assets\Flags\Slovakia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.154</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
       <PackagePath>Assets\Flags\Slovenia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.158</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
       <PackagePath>Assets\Flags\Soloman_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.188</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Somalia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Somalia.png">
       <PackagePath>Assets\Flags\Somalia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.193</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
       <PackagePath>Assets\Flags\South_Africa.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.197</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
       <PackagePath>Assets\Flags\South_Georgia.png</PackagePath>
-      <Modified>2018-12-04T09:15:13.201</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
       <PackagePath>Assets\Flags\South_Korea.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.632</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
       <PackagePath>Assets\Flags\Soviet_Union.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.634</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Spain.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Spain.png">
       <PackagePath>Assets\Flags\Spain.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.637</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
       <PackagePath>Assets\Flags\Sri_Lanka.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.639</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sudan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sudan.png">
       <PackagePath>Assets\Flags\Sudan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.642</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Suriname.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Suriname.png">
       <PackagePath>Assets\Flags\Suriname.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.644</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
       <PackagePath>Assets\Flags\Swaziland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.647</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Sweden.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sweden.png">
       <PackagePath>Assets\Flags\Sweden.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.649</Modified>
+      <Modified>2018-12-11T11:31:27.296</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
       <PackagePath>Assets\Flags\Switzerland.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.651</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Syria.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Syria.png">
       <PackagePath>Assets\Flags\Syria.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.653</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
       <PackagePath>Assets\Flags\Taiwan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.656</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
       <PackagePath>Assets\Flags\Tajikistan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.658</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
       <PackagePath>Assets\Flags\Tanzania.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.660</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Thailand.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Thailand.png">
       <PackagePath>Assets\Flags\Thailand.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.662</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tibet.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tibet.png">
       <PackagePath>Assets\Flags\Tibet.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.665</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
       <PackagePath>Assets\Flags\Timor-Leste.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.667</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Togo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Togo.png">
       <PackagePath>Assets\Flags\Togo.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.669</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tonga.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tonga.png">
       <PackagePath>Assets\Flags\Tonga.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.671</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
       <PackagePath>Assets\Flags\Trinidad_and_Tobago.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.674</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
       <PackagePath>Assets\Flags\Tunisia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.676</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turkey.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkey.png">
       <PackagePath>Assets\Flags\Turkey.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.678</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
       <PackagePath>Assets\Flags\Turkmenistan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.681</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
       <PackagePath>Assets\Flags\Turks_and_Caicos_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.683</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
       <PackagePath>Assets\Flags\Tuvalu.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.685</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\UAE.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\UAE.png">
       <PackagePath>Assets\Flags\UAE.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.688</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uganda.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uganda.png">
       <PackagePath>Assets\Flags\Uganda.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.690</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
       <PackagePath>Assets\Flags\Ukraine.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.693</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
       <PackagePath>Assets\Flags\United_Kingdom.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.695</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
       <PackagePath>Assets\Flags\United_States_of_America.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.697</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
       <PackagePath>Assets\Flags\Uruguay.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.699</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
       <PackagePath>Assets\Flags\US_Virgin_Islands.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.702</Modified>
+      <Modified>2018-12-11T11:31:27.312</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
       <PackagePath>Assets\Flags\Uzbekistan.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.704</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
       <PackagePath>Assets\Flags\Vanuatu.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.706</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
       <PackagePath>Assets\Flags\Vatican_City.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.708</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
       <PackagePath>Assets\Flags\Venezuela.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.711</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
       <PackagePath>Assets\Flags\Vietnam.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.713</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
       <PackagePath>Assets\Flags\Wallis_and_Futuna.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.715</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Yemen.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Yemen.png">
       <PackagePath>Assets\Flags\Yemen.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.718</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Zambia.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zambia.png">
       <PackagePath>Assets\Flags\Zambia.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.720</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
       <PackagePath>Assets\Flags\Zimbabwe.png</PackagePath>
-      <Modified>2018-12-04T09:15:12.722</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-09-13T12:46:29.165</Modified>
+      <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Databases\FlagApp.db">
-      <PackagePath>Databases\FlagApp.db</PackagePath>
-      <Modified>2018-12-11T08:19:09.589</Modified>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Databases\FlagAppcopie.db">
+      <PackagePath>Databases\FlagAppcopie.db</PackagePath>
+      <Modified>2018-12-17T10:41:59.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2018-12-04T09:12:22.169</Modified>
+      <Modified>2018-12-11T11:31:27.343</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
       <PackagePath>FlagApp.xr.xml</PackagePath>
-      <Modified>2018-12-11T08:37:18.397</Modified>
+      <Modified>2018-12-17T12:39:04.147</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-12-11T09:47:50.813</Modified>
+      <Modified>2018-12-17T12:39:21.140</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
       <PackagePath>Done.xbf</PackagePath>
-      <Modified>2018-12-11T09:47:50.813</Modified>
+      <Modified>2018-12-17T12:39:21.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-12-11T09:47:50.814</Modified>
+      <Modified>2018-12-17T12:39:21.141</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
       <PackagePath>Playing.xbf</PackagePath>
-      <Modified>2018-12-11T09:47:50.814</Modified>
+      <Modified>2018-12-17T12:39:21.142</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
       <PackagePath>RankingPage.xbf</PackagePath>
-      <Modified>2018-12-11T09:47:50.816</Modified>
+      <Modified>2018-12-17T12:39:21.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2018-04-19T20:01:52.000</Modified>
+      <Modified>2018-04-19T21:01:52.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-11T08:08:33.688</Modified>
+      <Modified>2018-12-17T11:16:59.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
       <PackagePath>FlagApp.exe</PackagePath>
-      <Modified>2018-12-11T09:47:51.949</Modified>
+      <Modified>2018-12-17T12:39:21.885</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x64\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.26702.0</Version>
+      <Version>1.1.27004.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.26702.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.27004.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x86\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26726.0</Version>
+      <Version>14.0.27023.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26726.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

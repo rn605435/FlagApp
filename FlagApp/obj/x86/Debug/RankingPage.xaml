@@ -12,7 +12,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="4*"/>
         </Grid.RowDefinitions>
-        <Grid Background="DimGray" Margin="4">
+        <Grid Background="#FF5C7ACB" Margin="4">
             <TextBlock Text="Classement"
                        FontSize="36"
                        Foreground="White"
@@ -34,7 +34,7 @@
                     <Grid BorderThickness="0.4"
                           BorderBrush="#f9f9f9"
                           Height="100"
-                          Background="2cc670">
+                          Background="#2cc670">
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*"/>
                             <ColumnDefinition Width="3*"/>

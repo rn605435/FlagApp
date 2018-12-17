@@ -16,9 +16,8 @@ namespace FlagApp.Model
 
         public DBHelper()
         {
-            path = Path.Combine(Windows.ApplicationModel.Package.Current.InstalledLocation.Path, "Databases", "FlagApp.db");
+            path = Path.Combine(Windows.Storage.ApplicationData.Current.LocalFolder.Path, "Databases", "FlagAppCopie.db");
             conn = new SQLite.Net.SQLiteConnection(new SQLite.Net.Platform.WinRT.SQLitePlatformWinRT(), path);
-
         }
 
         public List<Question> getEasyMode()
@@ -44,15 +43,15 @@ namespace FlagApp.Model
 
         public int insertScore(int score)
         {
-            //try
-            //{
+            try
+            {
                 return conn.Insert(new Ranking() { Score = score });
-            //}
-            /*catch (SQLiteException ex)
+            }
+            catch (SQLiteException ex)
             {
                 Debug.WriteLine(ex.Message);
                 return -1;
-            }*/
+            }
            
         }
 
