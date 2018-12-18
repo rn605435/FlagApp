@@ -86,14 +86,24 @@
                 <RadioButton
                     GroupName="Mode"
                     Grid.Column="0"
-                    x:Name="rdiHard"
-                    Content="Difficile"/>
+                    x:Name="rdiExtreme"
+                    Content="Extreme"/>
                 <RadioButton
                     GroupName="Mode"
                     Grid.Column="1"
-                    x:Name="rdiExtreme"
-                    Content="Extreme"/>
+                    x:Name="rdiCustom"
+                    Content="Personnalisé"/>
+            </Grid>
+            <Grid Grid.Row="4" Margin="8 0 0 0">
+                <Slider
+                    Maximum="200"
+                    Minimum="5"
+                    Header="Nombre de questions (Personnalisé) :"
+                    x:Name="sliderNumber"
+                    TickFrequency="5"
+                    Grid.Row="3" ValueChanged="SliderNumber_ValueChanged">
 
+                </Slider>
             </Grid>
         </Grid>
     </Grid>

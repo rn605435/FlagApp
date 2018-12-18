@@ -18,11 +18,10 @@ using Windows.UI.Xaml.Navigation;
 
 namespace FlagApp
 {
-    /// <summary>
-    /// Une page vide peut être utilisée seule ou constituer une page de destination au sein d'un frame.
-    /// </summary>
+
     public sealed partial class Done : Page
     {
+        public string modeDeJeu;
         DBHelper db;
         public Done()
         {
@@ -39,8 +38,25 @@ namespace FlagApp
             progressBar.Maximum = data.totalQuestion;
             progressBar.Value = data.correctAnswer;
 
+            if (progressBar.Maximum == 30)
+            {
+                modeDeJeu = "Facile";
+            }
+            else if(progressBar.Maximum == 50)
+            {
+                modeDeJeu = "Moyen";
+            }
+            else if(progressBar.Maximum == 100)
+            {
+                modeDeJeu = "Extreme";
+            }
+            else
+            {
+                modeDeJeu = "Personnalisé";
+            }
+
             //Save score to local DB for ranking
-            db.insertScore(data.score);
+            db.insertScore(data.score, modeDeJeu);
         }
 
         private void btnTryAgain_Click(object sender, RoutedEventArgs e)

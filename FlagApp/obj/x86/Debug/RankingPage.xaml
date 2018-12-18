@@ -7,12 +7,13 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-<Grid Background="#242e38">
+    <Grid Background="#242e38">
         <Grid.RowDefinitions>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="4*"/>
+            <RowDefinition Height="128*"/>
+            <RowDefinition Height="149*"/>
+            <RowDefinition Height="363*"/>
         </Grid.RowDefinitions>
-        <Grid Background="#FF5C7ACB" Margin="4">
+        <Grid Background="#FF5C7ACB" Margin="4,4,4,4" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
             <TextBlock Text="Classement"
                        FontSize="36"
                        Foreground="White"
@@ -22,11 +23,11 @@
 
         <ListView x:ConnectionId='2' Grid.Row="1"
               x:Name="lstScore"
-              Margin="4">
+              Margin="4,4,4,4" HorizontalAlignment="Stretch" Grid.RowSpan="2" VerticalAlignment="Stretch">
             <ListView.ItemContainerStyle>
                 <Style TargetType="ListViewItem">
                     <Setter Property="HorizontalContentAlignment" Value="Stretch" />
-                    
+
                 </Style>
             </ListView.ItemContainerStyle>
             <ListView.ItemTemplate>
@@ -36,7 +37,8 @@
                           Height="100"
                           Background="#2cc670">
                         <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="2*"/>
                             <ColumnDefinition Width="3*"/>
                         </Grid.ColumnDefinitions>
                         <Grid Grid.Column="0" BorderBrush="#fefefe"
@@ -52,6 +54,16 @@
                                    HorizontalAlignment="Center"
                                    VerticalAlignment="Center"
                                    Foreground="White"/>
+                        <Grid Grid.Column="2" BorderBrush="#fefefe"
+                              BorderThickness="0.8 0 0 0">
+                            <TextBlock
+                                   FontSize="30"
+                                   Text="{Binding mode}"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Foreground="White"/>
+                        </Grid>
+
 
                     </Grid>
                 </DataTemplate>

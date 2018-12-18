@@ -385,12 +385,6 @@
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\bronze.png">
       <PackagePath>Assets\bronze.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\silver.png">
-      <PackagePath>Assets\silver.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\gold.png">
-      <PackagePath>Assets\gold.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
       <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
     </AppxPackagedFile>
@@ -1059,6 +1053,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
       <PackagePath>Assets\Flags\Zimbabwe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\silver.png">
+      <PackagePath>Assets\silver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\gold.png">
+      <PackagePath>Assets\gold.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>

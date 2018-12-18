@@ -14,7 +14,7 @@
                 Width="200" Height="200"
                 Stretch="Uniform"
                 Source="ms-appx:///Assets/Flags/France.png"/>
-            <TextBlock x:ConnectionId='9'  x:Name="titleApp" Text="FLAG QUIZ" Height="58" Width="auto" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" FocusVisualPrimaryBrush="White" FontWeight="Bold" FontFamily="High Tower Text" FontSize="48" Foreground="#FFF08300">
+            <TextBlock x:ConnectionId='10'  x:Name="titleApp" Text="FLAG QUIZ" Height="58" Width="auto" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" FocusVisualPrimaryBrush="White" FontWeight="Bold" FontFamily="High Tower Text" FontSize="48" Foreground="#FFF08300">
                 <TextBlock.Triggers>
                     <EventTrigger RoutedEvent="TextBlock.Loaded">
                         <BeginStoryboard>
@@ -65,13 +65,13 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-                <RadioButton x:ConnectionId='7'
+                <RadioButton x:ConnectionId='8'
                     GroupName="Mode"
                     Grid.Column="0"
                     x:Name="rdiEasy"
                     Content="Facile"
                     IsChecked="True"/>
-                <RadioButton x:ConnectionId='8'
+                <RadioButton x:ConnectionId='9'
                     GroupName="Mode"
                     Grid.Column="1"
                     x:Name="rdiMedium"
@@ -83,17 +83,27 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
-                <RadioButton x:ConnectionId='5'
-                    GroupName="Mode"
-                    Grid.Column="0"
-                    x:Name="rdiHard"
-                    Content="Difficile"/>
                 <RadioButton x:ConnectionId='6'
                     GroupName="Mode"
-                    Grid.Column="1"
+                    Grid.Column="0"
                     x:Name="rdiExtreme"
                     Content="Extreme"/>
+                <RadioButton x:ConnectionId='7'
+                    GroupName="Mode"
+                    Grid.Column="1"
+                    x:Name="rdiCustom"
+                    Content="Personnalisé"/>
+            </Grid>
+            <Grid Grid.Row="4" Margin="8 0 0 0">
+                <Slider x:ConnectionId='5'
+                    Maximum="200"
+                    Minimum="5"
+                    Header="Nombre de questions (Personnalisé) :"
+                    x:Name="sliderNumber"
+                    TickFrequency="5"
+                    Grid.Row="3"                                         >
 
+                </Slider>
             </Grid>
         </Grid>
     </Grid>

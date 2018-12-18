@@ -30,22 +30,23 @@ namespace FlagApp.Model
             var data = conn.Table<Question>().Take(50);
             return data.ToList();
         }
-        public List<Question> getHardMode()
+        public List<Question> getExtremeMode()
         {
             var data = conn.Table<Question>().Take(100);
             return data.ToList();
         }
-        public List<Question> getExtremeMode()
+        public List<Question> getCustomMode()
         {
-            var data = conn.Table<Question>().Take(200);
+            int q = Convert.ToInt32(MainPage.customQ);
+            var data = conn.Table<Question>().Take(q);
             return data.ToList();
         }
 
-        public int insertScore(int score)
+        public int insertScore(int score, string mode)
         {
             try
             {
-                return conn.Insert(new Ranking() { Score = score });
+                return conn.Insert(new Ranking() { Score = score, mode = mode });
             }
             catch (SQLiteException ex)
             {

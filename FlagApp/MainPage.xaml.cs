@@ -8,6 +8,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Graphics.Display;
+using Windows.UI.Core;
 using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
@@ -27,6 +28,7 @@ namespace FlagApp
     /// </summary>
     public sealed partial class MainPage : Page
     {
+        public static double customQ = 0;
         public MainPage()
         {
             this.InitializeComponent();
@@ -34,7 +36,8 @@ namespace FlagApp
         protected async override void OnNavigatedTo(NavigationEventArgs e)
         {
             base.OnNavigatedTo(e);
-
+            var currentView = SystemNavigationManager.GetForCurrentView();
+            currentView.AppViewBackButtonVisibility = AppViewBackButtonVisibility.Disabled;
             //check screen size
             var bounds = ApplicationView.GetForCurrentView().VisibleBounds;
             var scaleFactor = DisplayInformation.GetForCurrentView().RawPixelsPerViewPixel;
@@ -62,13 +65,20 @@ namespace FlagApp
         private void btnPlay_Click(object sender, RoutedEventArgs e)
         {
             Mode mode;
+            
             if (rdiEasy.IsChecked == true)
+            {
                 mode = Mode.EASY;
+            }
             else if (rdiMedium.IsChecked == true)
+            {
                 mode = Mode.MEDIUM;
-            else if (rdiHard.IsChecked == true)
-                mode = Mode.HARD;
-            else 
+            }
+            else if (rdiCustom.IsChecked == true)
+            {
+                mode = Mode.CUSTOM;
+            }
+            else
                 mode = Mode.EXTREME;
             Frame.Navigate(typeof(Playing),mode);
         }
@@ -76,6 +86,16 @@ namespace FlagApp
         private void btnScore_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(RankingPage));
+        }
+
+        private void SliderNumber_ValueChanged(object sender, RangeBaseValueChangedEventArgs e)
+        {
+            Slider slider = sender as Slider;
+            
+            if (slider != null)
+            {
+                customQ = slider.Value;
+            }
         }
     }
 }

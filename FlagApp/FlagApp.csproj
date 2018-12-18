@@ -117,12 +117,6 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="Assets\bronze.png" />
-    <Content Include="Assets\silver.png" />
-    <Content Include="Assets\gold.png" />
-    <Content Include="Databases\FlagAppcopie.db" />
-    <None Include="FlagApp_TemporaryKey.pfx" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Assets\Flags\Afghanistan.png" />
     <Content Include="Assets\Flags\Albania.png" />
     <Content Include="Assets\Flags\Algeria.png" />
@@ -346,6 +340,12 @@
     <Content Include="Assets\Flags\Yemen.png" />
     <Content Include="Assets\Flags\Zambia.png" />
     <Content Include="Assets\Flags\Zimbabwe.png" />
+    <Content Include="Assets\silver.png" />
+    <Content Include="Assets\gold.png" />
+    <Content Include="Databases\FlagAppcopie.db" />
+    <None Include="FlagApp_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />

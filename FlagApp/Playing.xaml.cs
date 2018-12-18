@@ -53,10 +53,10 @@ namespace FlagApp
                 lstQuestion = db.getEasyMode().OrderBy(s => Guid.NewGuid()).ToList();
             else if ((Mode)mode == Mode.MEDIUM)
                 lstQuestion = db.getMedium().OrderBy(s => Guid.NewGuid()).ToList();
-            else if ((Mode)mode == Mode.HARD)
-                lstQuestion = db.getHardMode().OrderBy(s => Guid.NewGuid()).ToList();
             else if ((Mode)mode == Mode.EXTREME)
                 lstQuestion = db.getExtremeMode().OrderBy(s => Guid.NewGuid()).ToList();
+            else if ((Mode)mode == Mode.CUSTOM)
+                lstQuestion = db.getCustomMode().OrderBy(s => Guid.NewGuid()).ToList();
 
             //init progressbar
             progressBar.Minimum = 0;
@@ -68,6 +68,8 @@ namespace FlagApp
 
             //Show first question
             ShowQuestion(index);
+
+
         }
 
         private void btnAnswerA_Click(object sender, RoutedEventArgs e)
@@ -101,6 +103,11 @@ namespace FlagApp
                 correctAnswer++; //increase correctAnswer
                 txtScore.Text = score.ToString();
 
+            }
+            else if (lstQuestion.Count == 100 && (btn.Content.ToString() != lstQuestion[index].CorrectAnswer.ToUpper()))
+            {
+                score -= 10;
+                txtScore.Text = score.ToString();
             }
 
             

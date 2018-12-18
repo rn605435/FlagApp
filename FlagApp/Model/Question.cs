@@ -21,7 +21,7 @@ namespace FlagApp.Model
     {
         EASY,
         MEDIUM,
-        HARD,
-        EXTREME
+        EXTREME,
+        CUSTOM
     }
 }

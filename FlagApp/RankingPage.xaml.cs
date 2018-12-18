@@ -24,6 +24,7 @@ namespace FlagApp
     {
         public string scoreImage { get; set; }
         public int Score { get; set; }
+        public string mode { get; set; }
     }
     public sealed partial class RankingPage : Page
     {
@@ -59,6 +60,7 @@ namespace FlagApp
                     ScoreTemplate score = new ScoreTemplate();
                     score.Score = item.Score;
                     score.scoreImage = "ms-appx:///Assets/bronze.png";
+                    score.mode = item.mode;
                     lstSource.Add(score);
                 }
                 //Sort 

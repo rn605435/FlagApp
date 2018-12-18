@@ -12,6 +12,7 @@ namespace FlagApp.Model
         [PrimaryKey,AutoIncrement,Unique,NotNull]
         public int Id { get; set; }
         public int Score { get; set; }
+        public string mode { get; set; }
 
     }
 }

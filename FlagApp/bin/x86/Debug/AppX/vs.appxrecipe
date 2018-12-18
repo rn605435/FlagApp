@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-12-17T12:39:21.888</Modified>
+      <Modified>2018-12-18T09:17:21.825</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.exe">
       <PackagePath>entrypoint\FlagApp.exe</PackagePath>
-      <Modified>2018-12-17T12:39:21.312</Modified>
+      <Modified>2018-12-18T09:17:21.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -514,904 +514,904 @@
       <PackagePath>Assets\bronze.png</PackagePath>
       <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
+      <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Albania.png">
+      <PackagePath>Assets\Flags\Albania.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Algeria.png">
+      <PackagePath>Assets\Flags\Algeria.png</PackagePath>
+      <Modified>2018-12-18T07:21:07.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
+      <PackagePath>Assets\Flags\American_Samoa.png</PackagePath>
+      <Modified>2018-12-18T07:21:07.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Andorra.png">
+      <PackagePath>Assets\Flags\Andorra.png</PackagePath>
+      <Modified>2018-12-18T07:21:07.964</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Angola.png">
+      <PackagePath>Assets\Flags\Angola.png</PackagePath>
+      <Modified>2018-12-18T07:21:07.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
+      <PackagePath>Assets\Flags\Anguilla.png</PackagePath>
+      <Modified>2018-12-18T07:21:07.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
+      <PackagePath>Assets\Flags\Antigua_and_Barbuda.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Argentina.png">
+      <PackagePath>Assets\Flags\Argentina.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Armenia.png">
+      <PackagePath>Assets\Flags\Armenia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Aruba.png">
+      <PackagePath>Assets\Flags\Aruba.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.017</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Australia.png">
+      <PackagePath>Assets\Flags\Australia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Austria.png">
+      <PackagePath>Assets\Flags\Austria.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
+      <PackagePath>Assets\Flags\Azerbaijan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
+      <PackagePath>Assets\Flags\Bahamas.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
+      <PackagePath>Assets\Flags\Bahrain.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
+      <PackagePath>Assets\Flags\Bangladesh.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Barbados.png">
+      <PackagePath>Assets\Flags\Barbados.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belarus.png">
+      <PackagePath>Assets\Flags\Belarus.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belgium.png">
+      <PackagePath>Assets\Flags\Belgium.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belize.png">
+      <PackagePath>Assets\Flags\Belize.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Benin.png">
+      <PackagePath>Assets\Flags\Benin.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
+      <PackagePath>Assets\Flags\Bermuda.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
+      <PackagePath>Assets\Flags\Bhutan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
+      <PackagePath>Assets\Flags\Bolivia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
+      <PackagePath>Assets\Flags\Bosnia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Botswana.png">
+      <PackagePath>Assets\Flags\Botswana.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brazil.png">
+      <PackagePath>Assets\Flags\Brazil.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
+      <PackagePath>Assets\Flags\British_Virgin_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brunei.png">
+      <PackagePath>Assets\Flags\Brunei.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
+      <PackagePath>Assets\Flags\Bulgaria.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
+      <PackagePath>Assets\Flags\Burkina_Faso.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burundi.png">
+      <PackagePath>Assets\Flags\Burundi.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
+      <PackagePath>Assets\Flags\Cambodia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
+      <PackagePath>Assets\Flags\Cameroon.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Canada.png">
+      <PackagePath>Assets\Flags\Canada.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
+      <PackagePath>Assets\Flags\Cape_Verde.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
+      <PackagePath>Assets\Flags\Cayman_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
+      <PackagePath>Assets\Flags\Central_African_Republic.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chad.png">
+      <PackagePath>Assets\Flags\Chad.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chile.png">
+      <PackagePath>Assets\Flags\Chile.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\China.png">
+      <PackagePath>Assets\Flags\China.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.102</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
+      <PackagePath>Assets\Flags\Christmas_Island.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Colombia.png">
+      <PackagePath>Assets\Flags\Colombia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Comoros.png">
+      <PackagePath>Assets\Flags\Comoros.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
+      <PackagePath>Assets\Flags\Cook_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
+      <PackagePath>Assets\Flags\Costa_Rica.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Croatia.png">
+      <PackagePath>Assets\Flags\Croatia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cuba.png">
+      <PackagePath>Assets\Flags\Cuba.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
+      <PackagePath>Assets\Flags\Cyprus.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
+      <PackagePath>Assets\Flags\Czech_Republic.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
+      <PackagePath>Assets\Flags\Côte_d%27Ivoire.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
+      <PackagePath>Assets\Flags\Democratic_Republic_of_the_Congo.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Denmark.png">
+      <PackagePath>Assets\Flags\Denmark.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
+      <PackagePath>Assets\Flags\Djibouti.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominica.png">
+      <PackagePath>Assets\Flags\Dominica.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
+      <PackagePath>Assets\Flags\Dominican_Republic.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
+      <PackagePath>Assets\Flags\Ecuador.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Egypt.png">
+      <PackagePath>Assets\Flags\Egypt.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
+      <PackagePath>Assets\Flags\El_Salvador.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
+      <PackagePath>Assets\Flags\Equatorial_Guinea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
+      <PackagePath>Assets\Flags\Eritrea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Estonia.png">
+      <PackagePath>Assets\Flags\Estonia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
+      <PackagePath>Assets\Flags\Ethiopia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
+      <PackagePath>Assets\Flags\Falkland_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
+      <PackagePath>Assets\Flags\Faroe_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Fiji.png">
+      <PackagePath>Assets\Flags\Fiji.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Finland.png">
+      <PackagePath>Assets\Flags\Finland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\France.png">
+      <PackagePath>Assets\Flags\France.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
+      <PackagePath>Assets\Flags\French_Polynesia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gabon.png">
+      <PackagePath>Assets\Flags\Gabon.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gambia.png">
+      <PackagePath>Assets\Flags\Gambia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Georgia.png">
+      <PackagePath>Assets\Flags\Georgia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Germany.png">
+      <PackagePath>Assets\Flags\Germany.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ghana.png">
+      <PackagePath>Assets\Flags\Ghana.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.186</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
+      <PackagePath>Assets\Flags\Gibraltar.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greece.png">
+      <PackagePath>Assets\Flags\Greece.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greenland.png">
+      <PackagePath>Assets\Flags\Greenland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Grenada.png">
+      <PackagePath>Assets\Flags\Grenada.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guam.png">
+      <PackagePath>Assets\Flags\Guam.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
+      <PackagePath>Assets\Flags\Guatemala.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea.png">
+      <PackagePath>Assets\Flags\Guinea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
+      <PackagePath>Assets\Flags\Guinea_Bissau.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guyana.png">
+      <PackagePath>Assets\Flags\Guyana.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Haiti.png">
+      <PackagePath>Assets\Flags\Haiti.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.209</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Honduras.png">
+      <PackagePath>Assets\Flags\Honduras.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
+      <PackagePath>Assets\Flags\Hong_Kong.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hungary.png">
+      <PackagePath>Assets\Flags\Hungary.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iceland.png">
+      <PackagePath>Assets\Flags\Iceland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\India.png">
+      <PackagePath>Assets\Flags\India.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
+      <PackagePath>Assets\Flags\Indonesia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iran.png">
+      <PackagePath>Assets\Flags\Iran.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iraq.png">
+      <PackagePath>Assets\Flags\Iraq.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ireland.png">
+      <PackagePath>Assets\Flags\Ireland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Israel.png">
+      <PackagePath>Assets\Flags\Israel.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.233</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Italy.png">
+      <PackagePath>Assets\Flags\Italy.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.235</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
+      <PackagePath>Assets\Flags\Jamaica.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Japan.png">
+      <PackagePath>Assets\Flags\Japan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jordan.png">
+      <PackagePath>Assets\Flags\Jordan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
+      <PackagePath>Assets\Flags\Kazakhstan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kenya.png">
+      <PackagePath>Assets\Flags\Kenya.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
+      <PackagePath>Assets\Flags\Kiribati.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
+      <PackagePath>Assets\Flags\Kuwait.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
+      <PackagePath>Assets\Flags\Kyrgyzstan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Laos.png">
+      <PackagePath>Assets\Flags\Laos.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Latvia.png">
+      <PackagePath>Assets\Flags\Latvia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
+      <PackagePath>Assets\Flags\Lebanon.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
+      <PackagePath>Assets\Flags\Lesotho.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liberia.png">
+      <PackagePath>Assets\Flags\Liberia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Libya.png">
+      <PackagePath>Assets\Flags\Libya.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
+      <PackagePath>Assets\Flags\Liechtenstein.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
+      <PackagePath>Assets\Flags\Lithuania.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
+      <PackagePath>Assets\Flags\Luxembourg.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macao.png">
+      <PackagePath>Assets\Flags\Macao.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
+      <PackagePath>Assets\Flags\Macedonia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
+      <PackagePath>Assets\Flags\Madagascar.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malawi.png">
+      <PackagePath>Assets\Flags\Malawi.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
+      <PackagePath>Assets\Flags\Malaysia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Maldives.png">
+      <PackagePath>Assets\Flags\Maldives.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mali.png">
+      <PackagePath>Assets\Flags\Mali.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malta.png">
+      <PackagePath>Assets\Flags\Malta.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
+      <PackagePath>Assets\Flags\Marshall_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Martinique.png">
+      <PackagePath>Assets\Flags\Martinique.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
+      <PackagePath>Assets\Flags\Mauritania.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
+      <PackagePath>Assets\Flags\Mauritius.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mexico.png">
+      <PackagePath>Assets\Flags\Mexico.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
+      <PackagePath>Assets\Flags\Micronesia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Moldova.png">
+      <PackagePath>Assets\Flags\Moldova.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Monaco.png">
+      <PackagePath>Assets\Flags\Monaco.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
+      <PackagePath>Assets\Flags\Mongolia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
+      <PackagePath>Assets\Flags\Montserrat.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Morocco.png">
+      <PackagePath>Assets\Flags\Morocco.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
+      <PackagePath>Assets\Flags\Mozambique.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
+      <PackagePath>Assets\Flags\Myanmar.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Namibia.png">
+      <PackagePath>Assets\Flags\Namibia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nauru.png">
+      <PackagePath>Assets\Flags\Nauru.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nepal.png">
+      <PackagePath>Assets\Flags\Nepal.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
+      <PackagePath>Assets\Flags\Netherlands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
+      <PackagePath>Assets\Flags\Netherlands_Antilles.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
+      <PackagePath>Assets\Flags\New_Zealand.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
+      <PackagePath>Assets\Flags\Nicaragua.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niger.png">
+      <PackagePath>Assets\Flags\Niger.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
+      <PackagePath>Assets\Flags\Nigeria.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niue.png">
+      <PackagePath>Assets\Flags\Niue.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
+      <PackagePath>Assets\Flags\Norfolk_Island.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
+      <PackagePath>Assets\Flags\North_Korea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norway.png">
+      <PackagePath>Assets\Flags\Norway.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Oman.png">
+      <PackagePath>Assets\Flags\Oman.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
+      <PackagePath>Assets\Flags\Pakistan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Palau.png">
+      <PackagePath>Assets\Flags\Palau.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Panama.png">
+      <PackagePath>Assets\Flags\Panama.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
+      <PackagePath>Assets\Flags\Papua_New_Guinea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
+      <PackagePath>Assets\Flags\Paraguay.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.377</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Peru.png">
+      <PackagePath>Assets\Flags\Peru.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Philippines.png">
+      <PackagePath>Assets\Flags\Philippines.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.382</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
+      <PackagePath>Assets\Flags\Pitcairn_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Poland.png">
+      <PackagePath>Assets\Flags\Poland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Portugal.png">
+      <PackagePath>Assets\Flags\Portugal.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
+      <PackagePath>Assets\Flags\Puerto_Rico.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Qatar.png">
+      <PackagePath>Assets\Flags\Qatar.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
+      <PackagePath>Assets\Flags\Republic_of_the_Congo.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Romania.png">
+      <PackagePath>Assets\Flags\Romania.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
+      <PackagePath>Assets\Flags\Russian_Federation.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
+      <PackagePath>Assets\Flags\Rwanda.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
+      <PackagePath>Assets\Flags\Saint_Kitts_and_Nevis.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
+      <PackagePath>Assets\Flags\Saint_Lucia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
+      <PackagePath>Assets\Flags\Saint_Pierre.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
+      <PackagePath>Assets\Flags\Saint_Vicent_and_the_Grenadines.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Samoa.png">
+      <PackagePath>Assets\Flags\Samoa.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
+      <PackagePath>Assets\Flags\San_Marino.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
+      <PackagePath>Assets\Flags\Sao_Tomé_and_Príncipe.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
+      <PackagePath>Assets\Flags\Saudi_Arabia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Senegal.png">
+      <PackagePath>Assets\Flags\Senegal.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
+      <PackagePath>Assets\Flags\Serbia_and_Montenegro.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
+      <PackagePath>Assets\Flags\Seychelles.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
+      <PackagePath>Assets\Flags\Sierra_Leone.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Singapore.png">
+      <PackagePath>Assets\Flags\Singapore.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
+      <PackagePath>Assets\Flags\Slovakia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
+      <PackagePath>Assets\Flags\Slovenia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
+      <PackagePath>Assets\Flags\Soloman_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Somalia.png">
+      <PackagePath>Assets\Flags\Somalia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
+      <PackagePath>Assets\Flags\South_Africa.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
+      <PackagePath>Assets\Flags\South_Georgia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
+      <PackagePath>Assets\Flags\South_Korea.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
+      <PackagePath>Assets\Flags\Soviet_Union.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Spain.png">
+      <PackagePath>Assets\Flags\Spain.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
+      <PackagePath>Assets\Flags\Sri_Lanka.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sudan.png">
+      <PackagePath>Assets\Flags\Sudan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Suriname.png">
+      <PackagePath>Assets\Flags\Suriname.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
+      <PackagePath>Assets\Flags\Swaziland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sweden.png">
+      <PackagePath>Assets\Flags\Sweden.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
+      <PackagePath>Assets\Flags\Switzerland.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Syria.png">
+      <PackagePath>Assets\Flags\Syria.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.496</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
+      <PackagePath>Assets\Flags\Taiwan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
+      <PackagePath>Assets\Flags\Tajikistan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
+      <PackagePath>Assets\Flags\Tanzania.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Thailand.png">
+      <PackagePath>Assets\Flags\Thailand.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tibet.png">
+      <PackagePath>Assets\Flags\Tibet.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
+      <PackagePath>Assets\Flags\Timor-Leste.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.524</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Togo.png">
+      <PackagePath>Assets\Flags\Togo.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tonga.png">
+      <PackagePath>Assets\Flags\Tonga.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
+      <PackagePath>Assets\Flags\Trinidad_and_Tobago.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
+      <PackagePath>Assets\Flags\Tunisia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkey.png">
+      <PackagePath>Assets\Flags\Turkey.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
+      <PackagePath>Assets\Flags\Turkmenistan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
+      <PackagePath>Assets\Flags\Turks_and_Caicos_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
+      <PackagePath>Assets\Flags\Tuvalu.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\UAE.png">
+      <PackagePath>Assets\Flags\UAE.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uganda.png">
+      <PackagePath>Assets\Flags\Uganda.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.566</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
+      <PackagePath>Assets\Flags\Ukraine.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
+      <PackagePath>Assets\Flags\United_Kingdom.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
+      <PackagePath>Assets\Flags\United_States_of_America.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
+      <PackagePath>Assets\Flags\Uruguay.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.582</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
+      <PackagePath>Assets\Flags\US_Virgin_Islands.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
+      <PackagePath>Assets\Flags\Uzbekistan.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
+      <PackagePath>Assets\Flags\Vanuatu.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
+      <PackagePath>Assets\Flags\Vatican_City.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
+      <PackagePath>Assets\Flags\Venezuela.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
+      <PackagePath>Assets\Flags\Vietnam.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
+      <PackagePath>Assets\Flags\Wallis_and_Futuna.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Yemen.png">
+      <PackagePath>Assets\Flags\Yemen.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zambia.png">
+      <PackagePath>Assets\Flags\Zambia.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
+      <PackagePath>Assets\Flags\Zimbabwe.png</PackagePath>
+      <Modified>2018-12-18T07:21:08.621</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\silver.png">
       <PackagePath>Assets\silver.png</PackagePath>
       <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\gold.png">
       <PackagePath>Assets\gold.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Afghanistan.png">
-      <PackagePath>Assets\Flags\Afghanistan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Albania.png">
-      <PackagePath>Assets\Flags\Albania.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Algeria.png">
-      <PackagePath>Assets\Flags\Algeria.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\American_Samoa.png">
-      <PackagePath>Assets\Flags\American_Samoa.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Andorra.png">
-      <PackagePath>Assets\Flags\Andorra.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Angola.png">
-      <PackagePath>Assets\Flags\Angola.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Anguilla.png">
-      <PackagePath>Assets\Flags\Anguilla.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.171</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Antigua_and_Barbuda.png">
-      <PackagePath>Assets\Flags\Antigua_and_Barbuda.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Argentina.png">
-      <PackagePath>Assets\Flags\Argentina.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Armenia.png">
-      <PackagePath>Assets\Flags\Armenia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Aruba.png">
-      <PackagePath>Assets\Flags\Aruba.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Australia.png">
-      <PackagePath>Assets\Flags\Australia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Austria.png">
-      <PackagePath>Assets\Flags\Austria.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Azerbaijan.png">
-      <PackagePath>Assets\Flags\Azerbaijan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahamas.png">
-      <PackagePath>Assets\Flags\Bahamas.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bahrain.png">
-      <PackagePath>Assets\Flags\Bahrain.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bangladesh.png">
-      <PackagePath>Assets\Flags\Bangladesh.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Barbados.png">
-      <PackagePath>Assets\Flags\Barbados.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belarus.png">
-      <PackagePath>Assets\Flags\Belarus.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belgium.png">
-      <PackagePath>Assets\Flags\Belgium.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Belize.png">
-      <PackagePath>Assets\Flags\Belize.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Benin.png">
-      <PackagePath>Assets\Flags\Benin.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bermuda.png">
-      <PackagePath>Assets\Flags\Bermuda.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bhutan.png">
-      <PackagePath>Assets\Flags\Bhutan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bolivia.png">
-      <PackagePath>Assets\Flags\Bolivia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bosnia.png">
-      <PackagePath>Assets\Flags\Bosnia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Botswana.png">
-      <PackagePath>Assets\Flags\Botswana.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brazil.png">
-      <PackagePath>Assets\Flags\Brazil.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\British_Virgin_Islands.png">
-      <PackagePath>Assets\Flags\British_Virgin_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Brunei.png">
-      <PackagePath>Assets\Flags\Brunei.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.187</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Bulgaria.png">
-      <PackagePath>Assets\Flags\Bulgaria.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burkina_Faso.png">
-      <PackagePath>Assets\Flags\Burkina_Faso.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Burundi.png">
-      <PackagePath>Assets\Flags\Burundi.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cambodia.png">
-      <PackagePath>Assets\Flags\Cambodia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cameroon.png">
-      <PackagePath>Assets\Flags\Cameroon.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Canada.png">
-      <PackagePath>Assets\Flags\Canada.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cape_Verde.png">
-      <PackagePath>Assets\Flags\Cape_Verde.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cayman_Islands.png">
-      <PackagePath>Assets\Flags\Cayman_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Central_African_Republic.png">
-      <PackagePath>Assets\Flags\Central_African_Republic.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chad.png">
-      <PackagePath>Assets\Flags\Chad.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Chile.png">
-      <PackagePath>Assets\Flags\Chile.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\China.png">
-      <PackagePath>Assets\Flags\China.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Christmas_Island.png">
-      <PackagePath>Assets\Flags\Christmas_Island.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Colombia.png">
-      <PackagePath>Assets\Flags\Colombia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Comoros.png">
-      <PackagePath>Assets\Flags\Comoros.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cook_Islands.png">
-      <PackagePath>Assets\Flags\Cook_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Costa_Rica.png">
-      <PackagePath>Assets\Flags\Costa_Rica.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Croatia.png">
-      <PackagePath>Assets\Flags\Croatia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cuba.png">
-      <PackagePath>Assets\Flags\Cuba.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Cyprus.png">
-      <PackagePath>Assets\Flags\Cyprus.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Czech_Republic.png">
-      <PackagePath>Assets\Flags\Czech_Republic.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Côte_d%27Ivoire.png">
-      <PackagePath>Assets\Flags\Côte_d%27Ivoire.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Democratic_Republic_of_the_Congo.png">
-      <PackagePath>Assets\Flags\Democratic_Republic_of_the_Congo.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.202</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Denmark.png">
-      <PackagePath>Assets\Flags\Denmark.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Djibouti.png">
-      <PackagePath>Assets\Flags\Djibouti.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominica.png">
-      <PackagePath>Assets\Flags\Dominica.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Dominican_Republic.png">
-      <PackagePath>Assets\Flags\Dominican_Republic.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ecuador.png">
-      <PackagePath>Assets\Flags\Ecuador.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Egypt.png">
-      <PackagePath>Assets\Flags\Egypt.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\El_Salvador.png">
-      <PackagePath>Assets\Flags\El_Salvador.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Equatorial_Guinea.png">
-      <PackagePath>Assets\Flags\Equatorial_Guinea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Eritrea.png">
-      <PackagePath>Assets\Flags\Eritrea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Estonia.png">
-      <PackagePath>Assets\Flags\Estonia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ethiopia.png">
-      <PackagePath>Assets\Flags\Ethiopia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Falkland_Islands.png">
-      <PackagePath>Assets\Flags\Falkland_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Faroe_Islands.png">
-      <PackagePath>Assets\Flags\Faroe_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Fiji.png">
-      <PackagePath>Assets\Flags\Fiji.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Finland.png">
-      <PackagePath>Assets\Flags\Finland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\France.png">
-      <PackagePath>Assets\Flags\France.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\French_Polynesia.png">
-      <PackagePath>Assets\Flags\French_Polynesia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gabon.png">
-      <PackagePath>Assets\Flags\Gabon.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gambia.png">
-      <PackagePath>Assets\Flags\Gambia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Georgia.png">
-      <PackagePath>Assets\Flags\Georgia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Germany.png">
-      <PackagePath>Assets\Flags\Germany.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ghana.png">
-      <PackagePath>Assets\Flags\Ghana.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.218</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Gibraltar.png">
-      <PackagePath>Assets\Flags\Gibraltar.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greece.png">
-      <PackagePath>Assets\Flags\Greece.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Greenland.png">
-      <PackagePath>Assets\Flags\Greenland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Grenada.png">
-      <PackagePath>Assets\Flags\Grenada.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guam.png">
-      <PackagePath>Assets\Flags\Guam.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guatemala.png">
-      <PackagePath>Assets\Flags\Guatemala.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea.png">
-      <PackagePath>Assets\Flags\Guinea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guinea_Bissau.png">
-      <PackagePath>Assets\Flags\Guinea_Bissau.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Guyana.png">
-      <PackagePath>Assets\Flags\Guyana.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Haiti.png">
-      <PackagePath>Assets\Flags\Haiti.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Honduras.png">
-      <PackagePath>Assets\Flags\Honduras.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hong_Kong.png">
-      <PackagePath>Assets\Flags\Hong_Kong.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Hungary.png">
-      <PackagePath>Assets\Flags\Hungary.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iceland.png">
-      <PackagePath>Assets\Flags\Iceland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\India.png">
-      <PackagePath>Assets\Flags\India.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Indonesia.png">
-      <PackagePath>Assets\Flags\Indonesia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iran.png">
-      <PackagePath>Assets\Flags\Iran.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Iraq.png">
-      <PackagePath>Assets\Flags\Iraq.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ireland.png">
-      <PackagePath>Assets\Flags\Ireland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Israel.png">
-      <PackagePath>Assets\Flags\Israel.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Italy.png">
-      <PackagePath>Assets\Flags\Italy.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jamaica.png">
-      <PackagePath>Assets\Flags\Jamaica.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Japan.png">
-      <PackagePath>Assets\Flags\Japan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.234</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Jordan.png">
-      <PackagePath>Assets\Flags\Jordan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kazakhstan.png">
-      <PackagePath>Assets\Flags\Kazakhstan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kenya.png">
-      <PackagePath>Assets\Flags\Kenya.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kiribati.png">
-      <PackagePath>Assets\Flags\Kiribati.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kuwait.png">
-      <PackagePath>Assets\Flags\Kuwait.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Kyrgyzstan.png">
-      <PackagePath>Assets\Flags\Kyrgyzstan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Laos.png">
-      <PackagePath>Assets\Flags\Laos.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Latvia.png">
-      <PackagePath>Assets\Flags\Latvia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lebanon.png">
-      <PackagePath>Assets\Flags\Lebanon.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lesotho.png">
-      <PackagePath>Assets\Flags\Lesotho.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liberia.png">
-      <PackagePath>Assets\Flags\Liberia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Libya.png">
-      <PackagePath>Assets\Flags\Libya.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Liechtenstein.png">
-      <PackagePath>Assets\Flags\Liechtenstein.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Lithuania.png">
-      <PackagePath>Assets\Flags\Lithuania.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Luxembourg.png">
-      <PackagePath>Assets\Flags\Luxembourg.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macao.png">
-      <PackagePath>Assets\Flags\Macao.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Macedonia.png">
-      <PackagePath>Assets\Flags\Macedonia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Madagascar.png">
-      <PackagePath>Assets\Flags\Madagascar.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malawi.png">
-      <PackagePath>Assets\Flags\Malawi.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malaysia.png">
-      <PackagePath>Assets\Flags\Malaysia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Maldives.png">
-      <PackagePath>Assets\Flags\Maldives.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mali.png">
-      <PackagePath>Assets\Flags\Mali.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Malta.png">
-      <PackagePath>Assets\Flags\Malta.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.249</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Marshall_Islands.png">
-      <PackagePath>Assets\Flags\Marshall_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Martinique.png">
-      <PackagePath>Assets\Flags\Martinique.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritania.png">
-      <PackagePath>Assets\Flags\Mauritania.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mauritius.png">
-      <PackagePath>Assets\Flags\Mauritius.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mexico.png">
-      <PackagePath>Assets\Flags\Mexico.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Micronesia.png">
-      <PackagePath>Assets\Flags\Micronesia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Moldova.png">
-      <PackagePath>Assets\Flags\Moldova.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Monaco.png">
-      <PackagePath>Assets\Flags\Monaco.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mongolia.png">
-      <PackagePath>Assets\Flags\Mongolia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Montserrat.png">
-      <PackagePath>Assets\Flags\Montserrat.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Morocco.png">
-      <PackagePath>Assets\Flags\Morocco.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Mozambique.png">
-      <PackagePath>Assets\Flags\Mozambique.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Myanmar.png">
-      <PackagePath>Assets\Flags\Myanmar.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Namibia.png">
-      <PackagePath>Assets\Flags\Namibia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nauru.png">
-      <PackagePath>Assets\Flags\Nauru.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nepal.png">
-      <PackagePath>Assets\Flags\Nepal.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands.png">
-      <PackagePath>Assets\Flags\Netherlands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Netherlands_Antilles.png">
-      <PackagePath>Assets\Flags\Netherlands_Antilles.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\New_Zealand.png">
-      <PackagePath>Assets\Flags\New_Zealand.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nicaragua.png">
-      <PackagePath>Assets\Flags\Nicaragua.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niger.png">
-      <PackagePath>Assets\Flags\Niger.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Nigeria.png">
-      <PackagePath>Assets\Flags\Nigeria.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Niue.png">
-      <PackagePath>Assets\Flags\Niue.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.265</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norfolk_Island.png">
-      <PackagePath>Assets\Flags\Norfolk_Island.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\North_Korea.png">
-      <PackagePath>Assets\Flags\North_Korea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Norway.png">
-      <PackagePath>Assets\Flags\Norway.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Oman.png">
-      <PackagePath>Assets\Flags\Oman.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pakistan.png">
-      <PackagePath>Assets\Flags\Pakistan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Palau.png">
-      <PackagePath>Assets\Flags\Palau.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Panama.png">
-      <PackagePath>Assets\Flags\Panama.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Papua_New_Guinea.png">
-      <PackagePath>Assets\Flags\Papua_New_Guinea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Paraguay.png">
-      <PackagePath>Assets\Flags\Paraguay.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Peru.png">
-      <PackagePath>Assets\Flags\Peru.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Philippines.png">
-      <PackagePath>Assets\Flags\Philippines.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Pitcairn_Islands.png">
-      <PackagePath>Assets\Flags\Pitcairn_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Poland.png">
-      <PackagePath>Assets\Flags\Poland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Portugal.png">
-      <PackagePath>Assets\Flags\Portugal.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Puerto_Rico.png">
-      <PackagePath>Assets\Flags\Puerto_Rico.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Qatar.png">
-      <PackagePath>Assets\Flags\Qatar.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Republic_of_the_Congo.png">
-      <PackagePath>Assets\Flags\Republic_of_the_Congo.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Romania.png">
-      <PackagePath>Assets\Flags\Romania.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Russian_Federation.png">
-      <PackagePath>Assets\Flags\Russian_Federation.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Rwanda.png">
-      <PackagePath>Assets\Flags\Rwanda.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Kitts_and_Nevis.png">
-      <PackagePath>Assets\Flags\Saint_Kitts_and_Nevis.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Lucia.png">
-      <PackagePath>Assets\Flags\Saint_Lucia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Pierre.png">
-      <PackagePath>Assets\Flags\Saint_Pierre.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saint_Vicent_and_the_Grenadines.png">
-      <PackagePath>Assets\Flags\Saint_Vicent_and_the_Grenadines.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.280</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Samoa.png">
-      <PackagePath>Assets\Flags\Samoa.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\San_Marino.png">
-      <PackagePath>Assets\Flags\San_Marino.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sao_Tomé_and_Príncipe.png">
-      <PackagePath>Assets\Flags\Sao_Tomé_and_Príncipe.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Saudi_Arabia.png">
-      <PackagePath>Assets\Flags\Saudi_Arabia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Senegal.png">
-      <PackagePath>Assets\Flags\Senegal.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Serbia_and_Montenegro.png">
-      <PackagePath>Assets\Flags\Serbia_and_Montenegro.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Seychelles.png">
-      <PackagePath>Assets\Flags\Seychelles.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sierra_Leone.png">
-      <PackagePath>Assets\Flags\Sierra_Leone.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Singapore.png">
-      <PackagePath>Assets\Flags\Singapore.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovakia.png">
-      <PackagePath>Assets\Flags\Slovakia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Slovenia.png">
-      <PackagePath>Assets\Flags\Slovenia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soloman_Islands.png">
-      <PackagePath>Assets\Flags\Soloman_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Somalia.png">
-      <PackagePath>Assets\Flags\Somalia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Africa.png">
-      <PackagePath>Assets\Flags\South_Africa.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Georgia.png">
-      <PackagePath>Assets\Flags\South_Georgia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\South_Korea.png">
-      <PackagePath>Assets\Flags\South_Korea.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Soviet_Union.png">
-      <PackagePath>Assets\Flags\Soviet_Union.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Spain.png">
-      <PackagePath>Assets\Flags\Spain.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sri_Lanka.png">
-      <PackagePath>Assets\Flags\Sri_Lanka.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sudan.png">
-      <PackagePath>Assets\Flags\Sudan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Suriname.png">
-      <PackagePath>Assets\Flags\Suriname.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Swaziland.png">
-      <PackagePath>Assets\Flags\Swaziland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Sweden.png">
-      <PackagePath>Assets\Flags\Sweden.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.296</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Switzerland.png">
-      <PackagePath>Assets\Flags\Switzerland.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Syria.png">
-      <PackagePath>Assets\Flags\Syria.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Taiwan.png">
-      <PackagePath>Assets\Flags\Taiwan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tajikistan.png">
-      <PackagePath>Assets\Flags\Tajikistan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tanzania.png">
-      <PackagePath>Assets\Flags\Tanzania.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Thailand.png">
-      <PackagePath>Assets\Flags\Thailand.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tibet.png">
-      <PackagePath>Assets\Flags\Tibet.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Timor-Leste.png">
-      <PackagePath>Assets\Flags\Timor-Leste.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Togo.png">
-      <PackagePath>Assets\Flags\Togo.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tonga.png">
-      <PackagePath>Assets\Flags\Tonga.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Trinidad_and_Tobago.png">
-      <PackagePath>Assets\Flags\Trinidad_and_Tobago.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tunisia.png">
-      <PackagePath>Assets\Flags\Tunisia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkey.png">
-      <PackagePath>Assets\Flags\Turkey.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turkmenistan.png">
-      <PackagePath>Assets\Flags\Turkmenistan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Turks_and_Caicos_Islands.png">
-      <PackagePath>Assets\Flags\Turks_and_Caicos_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Tuvalu.png">
-      <PackagePath>Assets\Flags\Tuvalu.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\UAE.png">
-      <PackagePath>Assets\Flags\UAE.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uganda.png">
-      <PackagePath>Assets\Flags\Uganda.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Ukraine.png">
-      <PackagePath>Assets\Flags\Ukraine.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_Kingdom.png">
-      <PackagePath>Assets\Flags\United_Kingdom.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\United_States_of_America.png">
-      <PackagePath>Assets\Flags\United_States_of_America.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uruguay.png">
-      <PackagePath>Assets\Flags\Uruguay.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\US_Virgin_Islands.png">
-      <PackagePath>Assets\Flags\US_Virgin_Islands.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.312</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Uzbekistan.png">
-      <PackagePath>Assets\Flags\Uzbekistan.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vanuatu.png">
-      <PackagePath>Assets\Flags\Vanuatu.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vatican_City.png">
-      <PackagePath>Assets\Flags\Vatican_City.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Venezuela.png">
-      <PackagePath>Assets\Flags\Venezuela.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Vietnam.png">
-      <PackagePath>Assets\Flags\Vietnam.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Wallis_and_Futuna.png">
-      <PackagePath>Assets\Flags\Wallis_and_Futuna.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Yemen.png">
-      <PackagePath>Assets\Flags\Yemen.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zambia.png">
-      <PackagePath>Assets\Flags\Zambia.png</PackagePath>
-      <Modified>2018-12-11T11:31:27.327</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\Flags\Zimbabwe.png">
-      <PackagePath>Assets\Flags\Zimbabwe.png</PackagePath>
       <Modified>2018-12-11T11:31:27.327</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Assets\LockScreenLogo.scale-200.png">
@@ -1450,7 +1450,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Databases\FlagAppcopie.db">
       <PackagePath>Databases\FlagAppcopie.db</PackagePath>
-      <Modified>2018-12-17T10:41:59.926</Modified>
+      <Modified>2018-12-18T07:40:18.025</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -1458,27 +1458,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\FlagApp.xr.xml">
       <PackagePath>FlagApp.xr.xml</PackagePath>
-      <Modified>2018-12-17T12:39:04.147</Modified>
+      <Modified>2018-12-18T09:01:42.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-12-17T12:39:21.140</Modified>
+      <Modified>2018-12-18T09:17:20.971</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Done.xbf">
       <PackagePath>Done.xbf</PackagePath>
-      <Modified>2018-12-17T12:39:21.141</Modified>
+      <Modified>2018-12-18T09:17:20.971</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-12-17T12:39:21.141</Modified>
+      <Modified>2018-12-18T09:17:20.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Playing.xbf">
       <PackagePath>Playing.xbf</PackagePath>
-      <Modified>2018-12-17T12:39:21.142</Modified>
+      <Modified>2018-12-18T09:17:20.972</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\RankingPage.xbf">
       <PackagePath>RankingPage.xbf</PackagePath>
-      <Modified>2018-12-17T12:39:21.143</Modified>
+      <Modified>2018-12-18T09:17:20.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -1486,11 +1486,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2018-12-17T11:16:59.571</Modified>
+      <Modified>2018-12-18T07:21:16.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\rn605435.IUTNICE\Documents\Flagquizz\FlagApp\FlagApp\FlagApp\bin\x86\Debug\Core\FlagApp.exe">
       <PackagePath>FlagApp.exe</PackagePath>
-      <Modified>2018-12-17T12:39:21.885</Modified>
+      <Modified>2018-12-18T09:17:21.820</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
