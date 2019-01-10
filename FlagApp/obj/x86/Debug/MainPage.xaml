@@ -32,11 +32,11 @@
             </TextBlock>
         </Grid>
 
-        <Grid x:ConnectionId='2' x:Name="homeMenu" VerticalAlignment="Center"
+        <Grid x:ConnectionId='2' x:Name="homeMenu" VerticalAlignment="Bottom"
               Background="White"
               CornerRadius="8"
               Margin="8"
-              Padding="16 50">
+              Padding="16 30">
             <Grid.RowDefinitions>
                 <RowDefinition Height="auto"/>
                 <RowDefinition Height="auto"/>
@@ -60,7 +60,7 @@
                     Foreground="White"
                     HorizontalAlignment="Stretch"                       
                     />
-            <Grid Grid.Row="2" Margin="8 0 0 0">
+            <Grid Grid.Row="2" Margin="8 16 0 0">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="*"/>
@@ -94,7 +94,7 @@
                     x:Name="rdiCustom"
                     Content="Personnalisé"/>
             </Grid>
-            <Grid Grid.Row="4" Margin="8 0 0 0">
+            <Grid Grid.Row="4" Margin="8 16 0 0">
                 <Slider x:ConnectionId='5'
                     Maximum="200"
                     Minimum="5"

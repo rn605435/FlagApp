@@ -33,33 +33,11 @@ namespace FlagApp
         {
             this.InitializeComponent();
         }
-        protected async override void OnNavigatedTo(NavigationEventArgs e)
+        protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             base.OnNavigatedTo(e);
             var currentView = SystemNavigationManager.GetForCurrentView();
             currentView.AppViewBackButtonVisibility = AppViewBackButtonVisibility.Disabled;
-            //check screen size
-            var bounds = ApplicationView.GetForCurrentView().VisibleBounds;
-            var scaleFactor = DisplayInformation.GetForCurrentView().RawPixelsPerViewPixel;
-            var size = new Size(bounds.Width * scaleFactor, bounds.Height * scaleFactor);
-            //Debug.WriteLine($"Width:{size.Width}:Height:{size.Height}"); //screen size displayed
-            if(size.Width == 500 && size.Height == 600)
-            {
-                homeMenu.VerticalAlignment = VerticalAlignment.Bottom;
-            }
-            else
-            {
-                homeMenu.VerticalAlignment = VerticalAlignment.Center; //default
-            }
-            //hide status bar
-            if(Windows.Foundation.Metadata.ApiInformation.IsTypePresent("Windows.UI.ViewManagement.StatusBar"))
-            {
-                await Windows.UI.ViewManagement.StatusBar.GetForCurrentView().HideAsync();
-            }
-
-  
-
-
         }
 
         private void btnPlay_Click(object sender, RoutedEventArgs e)

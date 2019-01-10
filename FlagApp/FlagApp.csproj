@@ -343,6 +343,7 @@
     <Content Include="Assets\silver.png" />
     <Content Include="Assets\gold.png" />
     <Content Include="Databases\FlagAppcopie.db" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="FlagApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
